@@ -1,0 +1,7 @@
+#+TITLE: Różne zbiory danych
+#+AUTHOR: Tomasz Przechlewski
+#+EMAIL: looseheadprop1 at gmail dot com
+#+INFOJS_OPT: view:info
+#+BABEL: :session *R* :cache yes :results output graphics :exports both :tangle yes 
+
+Różne zbiory danych w tym dane dotyczące wyborów w PL w latach 2005--

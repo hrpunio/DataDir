@@ -1,0 +1,264 @@
+lp;nazwisko;imie;miejscowość;firma;dystans;oplata;plec;xxxx;nr;Nazwisko;Imie;address;afil;dist;wynik;time;kmH
+70;Antochowski;Jan;Wałdowo;JWKS AMATOR;Magister;tak;M;xxxx;7;ANTOCHOWSKI;JAN;Ostróda;AMATOR;55;2:21:09;8469;23,38
+4;Aranowski;Piotr;Gdańsk;DGT Sp. z o.o.;Magister;tak;M;xxxx;8;ARANOWSKI;PIOTR;Gdańsk;DGT;55;2:38:48;9528;20,78
+25;Bajera;Michał;Gdańsk;DGT Sp. z o.o.;Magister;tak;M;xxxx;11;BAJERA;MICHAŁ;Gdańsk;DGT;55;2:38:57;9537;20,76
+229;Bochomulski;Mieczysław;Gdynia;;Magister;tak;M;xxxx;28;BOCHOMULSKI;MIECZYSŁAW;Gdynia;-;75;3:21:40;12100;22,31
+4;Borzęcki;Ryszard;Zielona Wieś;NIEZRZESZONY;Profesor;tak;M;xxxx;38;BORZĘCKI;RYSZARD;Zielona Wieś;-;140;4:55:45;17745;28,40
+59;Brandt;Maciej;Elbląg;ROWEL;Magister;tak;M;xxxx;39;BRANDT;MACIEJ;Elblag;-;75;2:25:24;8724;30,95
+1;Broniszewski;Maciej;Gdańsk;SWORD spółka z ograniczoną odpowiedzialnością;Magister;tak;M;xxxx;41;BRONISZEWSKI;MACIEJ;Gdynia;-;75;2:12:01;7921;34,09
+28;Bukowski;Michał;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M;xxxx;46;BUKOWSKI;MICHAŁ;Nowy Dwór Gdański;-;75;3:16:06;11766;22,95
+40;Chmielewski;Mariusz;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M;xxxx;592;CHMIELEWSKI;MARIUSZ;;;55;3:05:40;11140;17,77
+10;Chmura;Marek;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M;xxxx;58;CHMURA;MAREK;Gdańsk;ATENA Usługi Informatyczne i Finansowe;75;2:35:27;9327;28,95
+83;Cierocki;Ryszard;Strzepcz;;Profesor;tak;M;xxxx;65;CIEROCKI;RYSZARD;Strzepcz;-;140;6:05:38;21938;22,97
+1;Cirzon;Michał;Gdańsk;ASE GDAŃSK;Doktor;;M;xxxx;67;CIRZON;MICHAŁ;Gdańsk;-;75;2:26:39;8799;30,69
+8;Czesnowski;Grzegorz;Gdańsk;ASE GDAŃSK;Magister;tak;M;xxxx;77;CZESNOWSKI;GRZEGORZ;Gdańsk;ASE GDAŃSK;75;3:07:19;11239;24,02
+22;Dalecki;Pawel;Gdansk;DGT Sp. z o.o.;Doktor;tak;M;xxxx;82;DALECKI;PAWEL;Gdańsk;DGT;75;2:36:29;9389;28,76
+129;Dasiukiewicz;Leszek;Gdańsk;;Profesor;tak;M;xxxx;83;DASIUKIEWICZ;LESZEK;Gdańsk;-;140;5:29:10;19750;25,52
+19;Dolecki;Tomasz;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;M;xxxx;91;DOLECKI;TOMASZ;Myszewko;-;75;3:38:21;13101;20,61
+12;Dolińska;Monika;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;K;xxxx;92;DOLIŃSKA;MONIKA;Nowy Dwór Gd;-;75;4:17:22;15442;17,48
+1;Dudarowski;Mariusz;Gdansk;Rockwell Automation Sp. z o.o.;Doktor;;M;xxxx;98;DUDAROWSKI;MARIUSZ;Gdańsk;-;75;2:46:24;9984;27,04
+6;Fabijańczyk;Radosław;Gdańsk;ASE GDAŃSK;Magister;;M;xxxx;104;FABIJAŃCZYK;RADOSŁAW;Gdańsk;ASE GDAŃSK;55;3:55:52;14152;13,99
+5;Fabijańczyk;Katarzyna;Gdańsk;ASE GDAŃSK;Magister;;K;xxxx;103;FABIJAŃCZYK;KATARZYNA;Gdańsk;ASE GDAŃSK;55;3:55:56;14156;13,99
+24;Felchner;Tomasz;Kokoszkowy;DGT Sp. z o.o.;Doktor;tak;M;xxxx;108;FELCHNER;TOMASZ;Kokoszkowy;DGT;55;2:23:47;8627;22,95
+52;Fulara;Wojciech;Gdansk;;Magister;tak;M;xxxx;608;FULARA;WOJCIECH;;;75;3:04:31;11071;24,39
+41;Gierszewski;Szymon;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M;xxxx;123;GIERSZEWSKI;SZYMON;Nowy Dwór Gdański;-;75;4:02:49;14569;18,53
+57;Glejzer;Krzysztof;Gdansk;;Profesor;tak;M;xxxx;126;GLEJZER;KRZYSZTOF;Gdańsk;-;140;5:51:33;21093;23,89
+97;Głąb;Dariusz;;;Magister;tak;M;xxxx;127;GŁĄB;DARIUSZ;Mabork;-;55;3:45:41;13541;14,62
+69;Golańska;Mariola;Gdańsk;;Magister;tak;K;xxxx;129;GOLAŃSKA;MARIOLA;Gdańsk;-;55;3:51:03;13863;14,28
+41;Goś;Zuzanna;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K;xxxx;135;GOŚ;ZUZANNA;Sopot;ATENA Usługi Informatyczne i Finansowe;55;2:33:57;9237;21,44
+40;Goś;Mariusz;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M;xxxx;134;GOŚ;MARIUSZ;Sopot;ATENA Usługi Informatyczne i Finansowe;55;3:05:45;11145;17,77
+119;Góralski;Waldemar;Pruszcz Gdański;;Profesor;tak;M;xxxx;136;GÓRALSKI;WALDEMAR;Pruszcz Gdański;-;140;4:07:22;14842;33,96
+153;Graban;Wiesława;Szlachta;;Doktor;tak;K;xxxx;138;GRABAN;WIESŁAWA;Szlachta;-;75;2:56:34;10594;25,49
+195;Hirsz;Dawid;Gdańsk;;Magister;tak;M;xxxx;154;HIRSZ;DAWID;Gdańsk;-;75;4:07:54;14874;18,15
+193;Hirsz;Jarosław;Gdańsk;;Magister;tak;M;xxxx;153;HIRSZ;JAROSŁAW;Gdańsk;-;75;4:07:55;14875;18,15
+194;Hirsz-Strycel;Beata;Gdańsk;;Magister;tak;K;xxxx;155;HIRSZ-STRYCEL;BEATA;Gdańsk;-;55;3:03:21;11001;18,00
+25;Jegier;Adam;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M;xxxx;171;JEGIER;ADAM;Nowy Dwór Gdański;-;75;3:16:16;11776;22,93
+21;Kaczyński;Mirosław;Gdańsk;DGT Sp. z o.o.;Doktor;tak;M;xxxx;175;KACZYŃSKI;MIROSŁAW;Gdańsk;DGT;75;2:45:23;9923;27,21
+17;Kamelska;Danuta;Kowale;DGT Sp. z o.o.;Magister;tak;K;xxxx;179;KAMELSKA;DANUTA;Gdańsk;DGT;55;3:16:22;11782;16,81
+178;Kanigowski;Grzegorz;Gdańsk;;Profesor;tak;M;xxxx;183;KANIGOWSKI;GRZEGORZ;Gdańsk;-;140;4:10:16;15016;33,56
+6;Kawczyński;Grzegorz;Gdynia;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;M;xxxx;191;KAWCZYŃSKI;GRZEGORZ;Gdynia;ATENA Usługi Informatyczne i Finansowe;75;3:48:45;13725;19,67
+98;Kawiak;Janusz;Cedry Wielkie;;Doktor;tak;M;xxxx;192;KAWIAK;JANUSZ;Cedry Wielkie;-;75;3:06:48;11208;24,09
+214;Klajnszmyt;Roman;Nowa Kiszewa;;Doktor;tak;M;xxxx;205;KLAJNSZMYT;ROMAN;Nowa Kiszewa;-;140;5:16:09;18969;26,57
+1;Komorowska;Anita;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K;xxxx;216;KOMOROWSKA;ANITA;Gdynia;ATENA Usługi Informatyczne i Finansowe;75;3:28:33;12513;21,58
+10;Kopal;Kazimierz;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;M;xxxx;218;KOPAL;KAZIMIERZ;Nowy Dwór Gdański;-;75;2:53:42;10422;25,91
+14;Kowal;Mariusz;Kowale;LPP Team;Profesor;tak;M;xxxx;233;KOWAL;MARIUSZ;Gdansk;LPP TEAM;140;6:58:42;25122;20,06
+30;Krawczyk;Wojciech;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;M;xxxx;243;KRAWCZYK;WOJCIECH;Nowy Dwór Gdański;I Love Żuławy Wkoło;75;3:09:35;11375;23,74
+157;Krzemiński;Piotr;Gdańsk;AKADEMICKI KLUB MORSKI;Doktor;tak;M;xxxx;247;KRZEMIŃSKI;PIOTR;Gdańsk;AKM GDAŃSK;75;2:23:36;8616;31,34
+53;Krzyszkowska;Ewa;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K;xxxx;249;KRZYSZKOWSKA;EWA;Gdynia;ATENA Usługi Informatyczne i Finansowe;75;3:39:43;13183;20,48
+52;Krzyszkowski;Maciej;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M;xxxx;250;KRZYSZKOWSKI;MACIEJ;Gdynia;ATENA Usługi Informatyczne i Finansowe;75;3:39:44;13184;20,48
+38;Kujawski;Jacek;Gdańsk;;Profesor;tak;M;xxxx;252;KUJAWSKI;JACEK;Gdańsk;-;140;6:04:56;21896;23,02
+8;Kwiatkowski;Sławomir;Gdynia;;Profesor;tak;M;xxxx;262;KWIATKOWSKI;SŁAWOMIR;Gdynia;SAPTECH;140;5:20:38;19238;26,20
+127;Leoniak;Ewa;Gdynia;DZIERZGOŃ TEAM;Doktor;tak;K;xxxx;273;LEONIAK;EWA;Gdynia;SEKCJA ROWEROWA DZIERZGOŃSKIEGO OŚRODKA KULTURY;75;3:49:22;13762;19,62
+128;Leoniak;Renata;Dzierzgoń;DZIERZGOŃ TEAM;Doktor;tak;K;xxxx;274;LEONIAK;RENATA;Dzierzgoń;SEKCJA ROWEROWA DZIERZGOŃSKIEGO OŚRODKA KULTURY;75;3:49:26;13766;19,61
+32;Litwin;Wiktor;Gdańsk;;Doktor;tak;M;xxxx;283;LITWIN;WIKTOR;Gdańsk;-;75;3:29:58;12598;21,43
+31;Litwin;Piotr;Gdańsk;OCEANIC;Doktor;tak;M;xxxx;282;LITWIN;PIOTR;Gdańsk;-;75;3:30:00;12600;21,43
+237;Lubojemski;Bartosz;Bydgoszcz;;Doktor;tak;M;xxxx;285;LUBOJEMSKI;BARTOSZ;Bydgoszcz;-;75;3:45:40;13540;19,94
+1;Marko;Andrzej;Gdańsk;DGT Sp. z o.o.;Magister;tak;M;xxxx;303;MARKO;ANDRZEJ;Gdańsk;DGT;55;2:38:52;9532;20,77
+93;Miszewski;Jan;Gdańsk;JANSOLO;Magister;tak;M;xxxx;323;MISZEWSKI;JAN;Gdańsk;JANSOLO;75;2:29:49;8989;30,04
+51;Młynarski;Mariusz;Sosnowiec;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M;xxxx;324;MŁYNARSKI;MARIUSZ;Sosnowiec;ATENA Usługi Informatyczne i Finansowe;75;3:19:44;11984;22,53
+5;Moniuszko;Hubert;Gdańsk;Lufthansa Systems Poland Sp. z o.o.;Doktor;;M;xxxx;326;MONIUSZKO;HUBERT;Gdańsk;Lufthansa Systems Poland;75;2:39:38;9578;28,19
+7;Mrall;Jarosław;Gdańsk;DGT Sp. z o.o.;Doktor;tak;M;xxxx;329;MRALL;JAROSŁAW;Gdańsk;DGT;75;2:25:20;8720;30,96
+2;Niedźwiadek;Adam;Gdańsk;Infoprojekt Sp z o.o.;Profesor;;M;xxxx;340;NIEDŹWIADEK;ADAM;Gdańsk;INFOPROJEKT;140;6:00:22;21622;23,31
+7;Orzechowska;Magdalena;Gdańsk;Lufthansa Systems Poland Sp. z o.o.;Magister;;K;xxxx;356;ORZECHOWSKA;MAGDALENA;Gdańsk;Lufthansa Systems Poland;75;4:44:10;17050;15,84
+60;Pankowski;Rafał;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M;xxxx;367;PANKOWSKI;RAFAŁ;Gdańsk;ATENA Usługi Informatyczne i Finansowe;140;7:02:01;25321;19,90
+59;Pankowski;Zbyszko;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M;xxxx;368;PANKOWSKI;ZBYSZKO;Gdańsk;ATENA Usługi Informatyczne i Finansowe;140;7:48:29;28109;17,93
+78;Patok;Gerard;Wejherowo;CCC POLKOWICE;Magister;tak;M;xxxx;370;PATOK;GERARD;Wejherowo;-;55;2:13:08;7988;24,79
+202;Pączek;Wojciech;Gdańsk;;Profesor;tak;M;xxxx;375;PĄCZEK;WOJCIECH;Gdańsk;ERICSSON;140;6:40:46;24046;20,96
+159;Pączek;Stanisław;Rumia;;Magister;tak;M;xxxx;376;PĄCZEK;STANISŁAW;Rumia;-;55;3:17:02;11822;16,75
+12;Piekarczyk;Adam;Gdańsk;INTEL;Magister;;M;xxxx;381;PIEKARCZYK;ADAM;Gdańsk;INTEL TECHNOLOGY POLAND;140;5:58:19;21499;23,44
+7;Piekarski;Tomasz;Gdańsk;JIT Solutions;Doktor;;M;xxxx;384;PIEKARSKI;TOMASZ;Gdańsk;ATENA Usługi Informatyczne i Finansowe;55;4:20:48;15648;12,65
+201;Piotrowski;Andrzej;Pruszcz Gdański;TATTOO & BIKE;Profesor;tak;M;xxxx;389;PIOTROWSKI;ANDRZEJ;Pruszcz Gdański;DZIK I BAJK;140;5:20:54;19254;26,18
+4;Piwowarska;Karolina;Gdynia;ASE GDAŃSK;Magister;;K;xxxx;391;PIWOWARSKA;KAROLINA;Gdynia;ASE GDAŃSK;55;3:26:57;12417;15,95
+19;Pniewski;Jaroslaw;Rumia;;Profesor;tak;M;xxxx;395;PNIEWSKI;JAROSLAW;Rumia;-;140;5:20:06;19206;26,24
+18;Pogorzelski;Adam;Gdansk;DGT Sp. z o.o.;Magister;tak;M;xxxx;396;POGORZELSKI;ADAM;Gdańsk;DGT;55;2:57:49;10669;18,56
+16;Rejszel;Stanisław;Kowale;DGT Sp. z o.o.;Magister;tak;M;xxxx;418;REJSZEL;STANISŁAW;Kowale;DGT;55;3:16:21;11781;16,81
+1;Remizowicz;Stanisław;Gdańsk;INTEL;Magister;;M;xxxx;419;REMIZOWICZ;STANISŁAW;Gdańsk;INTEL TECHNOLOGY POLAND;140;5:58:16;21496;23,45
+56;Rutkowski;Marcin;Gdynia;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;M;xxxx;434;RUTKOWSKI;MARCIN;Gdynia;ATENA Usługi Informatyczne i Finansowe;75;3:20:17;12017;22,47
+56;Rutkowski;Marcin;Gdynia;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;M;xxxx;435;RUTKOWSKI;MARCIN;Gdańsk;-;75;3:45:52;13552;19,92
+34;Sadłowski;Andrzej;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;M;xxxx;436;SADŁOWSKI;ANDRZEJ;Gdańsk;ATENA Usługi Informatyczne i Finansowe;75;3:17:05;11825;22,83
+1;Sakłak;Wojciech;Banino;AWFiS;Doktor;;M;xxxx;438;SAKŁAK;WOJCIECH;Gdańsk;AWFiS;75;2:49:00;10140;26,63
+197;Sekida;Mateusz;Gościcino;;Profesor;tak;M;xxxx;440;SEKIDA;MATEUSZ;Gościcino;NORDA ACTIV TEAM;140;4:07:28;14848;33,94
+7;Sienkiewicz;Zygmunt;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M;xxxx;443;SIENKIEWICZ;ZYGMUNT;Nowy Dwór Gdański;EMERYT;75;3:09:36;11376;23,73
+50;Sikora;Dariusz;Nowy Dwór Gdański;Żuławiacy Stolmach;Profesor;tak;M;xxxx;444;SIKORA;DARIUSZ;Nowy Dwór Gdański;SŁONECZKO NDG;75;2:09:59;7799;34,62
+14;Skruch;Sławomir;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M;xxxx;446;SKRUCH;SŁAWOMIR;Gdańsk;ATENA Usługi Informatyczne i Finansowe;75;3:17:03;11823;22,84
+80;Sobieraj;Jarosław;Gdynia;MAJ;Magister;tak;M;xxxx;452;SOBIERAJ;JAROSŁAW;Gdynia;-;75;3:28:33;12513;21,58
+9;Starczewski;Bartosz;Gdansk;ATENA Usługi Informatyczne i Finansowe;Profesor;tak;M;xxxx;463;STARCZEWSKI;BARTOSZ;Gdańsk;-;140;5:48:07;20887;24,13
+232;Stefaniak;Leszek;Gdańsk ;DREAM TRI TEAM;Magister;tak;M;xxxx;465;STEFANIAK;LESZEK;Gdańsk;-;55;4:00:00;14400;13,75
+108;Suszek;Roman;Sopot;;Doktor;tak;M;xxxx;481;SUSZEK;ROMAN;Sopot;-;140;5:24:52;19492;25,86
+20;Sygitowicz;Szymon;Gdańsk;DGT Sp. z o.o.;Magister;tak;M;xxxx;482;SYGITOWICZ;SZYMON;Gdańsk;DGT;55;2:45:38;9938;19,92
+8;Sztabińska;Anna;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;K;xxxx;489;SZTABIŃSKA;ANNA;Nowy Dwór Gdański;-;75;4:17:15;15435;17,49
+9;Sztabiński;Piotr;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;M;xxxx;490;SZTABIŃSKI;PIOTR;Nowy Dwór Gd;-;75;3:11:03;11463;23,55
+80;Sztokinger;Jarosław;Gdynia;ATENA Usługi Informatyczne i Finansowe;Profesor;;M;xxxx;495;SZTOKINGER;JAROSŁAW;Gdynia;ATENA Usługi Informatyczne i Finansowe;75;2:27:08;8828;30,58
+66;Sztormowski;Rafał;Sopot;ATENA Usługi Informatyczne i Finansowe;Profesor;tak;M;xxxx;498;SZTORMOWSKI;RAFAŁ;Sopot;ATENA Usługi Informatyczne i Finansowe;55;4:20:29;15629;12,67
+1;Tomaszewski;Michał;Gdańsk;SOLWIT SA;Profesor;tak;M;xxxx;510;TOMASZEWSKI;MICHAŁ;Gdańsk;-;75;2:16:44;8204;32,91
+137;Trojanowski;Karol;Starogard Gdański;GK STG;Doktor;tak;M;xxxx;515;TROJANOWSKI;KAROL;Starogard Gdański;GRUPA KOLARSKA STAROGARD GDAŃSKI;75;2:57:33;10653;25,34
+29;Tumkiewicz;Mirosława;Gdynia;TANDEM GDYNIA;Doktor;tak;K;xxxx;520;TUMKIEWICZ;MIROSŁAWA;Gdynia;-;75;3:39:59;13199;20,46
+28;Tumkiewicz;Jan;Gdynia;TANDEM GDYNIA;Doktor;tak;M;xxxx;519;TUMKIEWICZ;JAN;Gdynia;-;75;3:39:59;13199;20,46
+16;Udodau;Pavel;Gdynia;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;M;xxxx;524;UDODAU;PAVEL;Gdynia;ATENA Usługi Informatyczne i Finansowe;75;3:17:07;11827;22,83
+243;Walkowski;Karol;Prabuty;;Doktor;tak;M;xxxx;533;WALKOWSKI;KAROL;Prabuty;-;75;2:57:29;10649;25,35
+67;Wypasek;Krystyna;Sopot;ATENA Usługi Informatyczne i Finansowe;Profesor;tak;K;xxxx;570;WYPASEK;KRYSTYNA;Sopot;ATENA Usługi Informatyczne i Finansowe;55;4:20:23;15623;12,67
+10;Wysocki;Piotr;Gdynia;DGT Sp. z o.o.;Magister;tak;M;xxxx;571;WYSOCKI;PIOTR;Gdynia;DGT;55;2:03:43;7423;26,67
+2;Zalewski;Robert;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M;xxxx;575;ZALEWSKI;ROBERT;Gdańsk;ATENA Usługi Informatyczne i Finansowe;140;7:16:59;26219;19,22
+15;Zdrojewski;Adrian;Sopot;ATENA Usługi Informatyczne i Finansowe;Profesor;tak;M;xxxx;580;ZDROJEWSKI;ADRIAN;Sopot;ATENA Usługi Informatyczne i Finansowe;140;4:34:00;16440;30,66
+15;Zylka;Monika;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;K;xxxx;585;ZYLKA;MONIKA;Nowy Dwór Gdański;SŁONECZKO NDG;55;3:11:36;11496;17,22
+lp;nazwisko;imie;miejscowość;firma;dystans;oplata;plec;xxxx;nr;Nazwisko;Imie;addres;afil;dist;wynik;time;kmH
+23;Bach;Danuta;Straszyn;DGT Sp. z o.o.;Magister;tak;K;xxxx;8;BACH;DANUTA;Straszyn;;55;3:21:46;12106;16.36
+9;Bafia;Monika;Ostaszewo;LPP Team;Magister;tak;K;xxxx;9;BAFIA;MONIKA;Nowa Kościelnica;;80;4:18:04;15484;18.60
+25;Bajera;Michał;Gdańsk;DGT Sp. z o.o.;Magister;tak;M;xxxx;10;BAJERA;MICHAŁ;Gdańsk;;80;3:46:24;13584;21.20
+45;Beksa;Iwona;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;K;xxxx;16;BEKSA;IWONA;Nowy Dwór Gdański;;55;3:12:30;11550;17.14
+34;Blok;Grzegorz;Pruszcz Gdański;;Profesor;tak;M;xxxx;26;BLOK;GRZEGORZ;Pruszcz Gdański;;80;4:00:37;14437;19.95
+33;Blok;Marta;Pruszcz Gdański;;Profesor;tak;K;xxxx;27;BLOK;MARTA;Pruszcz Gdański;;80;4:02:59;14579;19.75
+229;Bochomulski;Mieczysław;Gdynia;;Magister;tak;M;xxxx;30;BOCHOMULSKI;MIECZYSŁAW;Gdynia;;80;3:35:03;12903;22.32
+132;Bojko;Michał;Gdańsk;;Magister;tak;M;xxxx;33;BOJKO;MICHAŁ;Gdańsk;;80;4:49:53;17393;16.56
+212;Bolewicki;Piotr;Gdańsk;;Doktor;tak;M;xxxx;34;BOLEWICKI;PIOTR;Gdańsk;;80;3:25:53;12353;23.31
+4;Borzęcki;Ryszard;Zielona Wieś;NIEZRZESZONY;Profesor;tak;M;xxxx;40;BORZĘCKI;RYSZARD;Zielona Wieś;;140;4:22:02;15722;32.06
+59;Brandt;Maciej;Elbląg;ROWEL;Magister;tak;M;xxxx;42;BRANDT;MACIEJ;Elbląg;;80;2:38:37;9517;30.26
+13;Branicka;Aleksandra;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K;xxxx;43;BRANICKA;ALEKSANDRA;Gdańsk;;80;4:12:34;15154;19.00
+1;Broniszewski;Maciej;Gdańsk;SWORD spółka z ograniczoną odpowiedzialnością;Magister;tak;M;xxxx;44;BRONISZEWSKI;MACIEJ;Gdynia;;55;1:39:02;5942;33.32
+40;Chmielewski;Mariusz;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M;xxxx;56;CHMIELEWSKI;MARIUSZ;Nowy Dwor Gdanski;;55;2:53:34;10414;19.01
+84;Cierocka;Zofia;Strzepcz;;Profesor;tak;K;xxxx;60;CIEROCKA;ZOFIA;Strzepcz;;55;3:35:26;12926;15.32
+83;Cierocki;Ryszard;Strzepcz;;Profesor;tak;M;xxxx;61;CIEROCKI;RYSZARD;Strzepcz;;55;3:35:25;12925;15.32
+1;Cirzon;Michał;Gdańsk;ASE GDAŃSK;Doktor;;M;xxxx;64;CIRZON;MICHAŁ;Gdańsk;;80;2:33:02;9182;31.37
+8;Czesnowski;Grzegorz;Gdańsk;ASE GDAŃSK;Magister;tak;M;xxxx;70;CZESNOWSKI;GRZEGORZ;Gdańsk;;80;3:12:09;11529;24.98
+22;Czyżykowski;Michał;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Profesor;tak;M;xxxx;71;CZYŻYKOWSKI;MICHAŁ;Gdańsk;;80;2:55:53;10553;27.29
+168;Dawidowska;Barbara;Ostrzyce;;Magister;tak;K;xxxx;73;DAWIDOWSKA;BARBARA;Ostrzyce;;80;4:17:11;15431;18.66
+169;Dawidowski;Przemysław;Ostrzyce;;Magister;tak;M;xxxx;74;DAWIDOWSKI;PRZEMYSŁAW;Ostrzyce;;80;4:17:11;15431;18.66
+77;Dobrolinski;Daniel;Gdynia;POLSKA PÓŁNOCNA;Profesor;tak;M;xxxx;82;DOBROLINSKI;DANIEL;Gdynia;;140;4:28:50;16130;31.25
+19;Dolecki;Tomasz;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;M;xxxx;84;DOLECKI;TOMASZ;Myszewko;;80;3:43:56;13436;21.43
+12;Dolińska;Monika;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;K;xxxx;85;DOLIŃSKA;MONIKA;Myszewko;;55;3:20:21;12021;16.47
+1;Dudarowski;Mariusz;Gdansk;Rockwell Automation Sp. z o.o.;Doktor;;M;xxxx;90;DUDAROWSKI;MARIUSZ;Gdańsk;;80;3:09:02;11342;25.39
+219;Dzido;Karol;Gdynia;3TEAM;Profesor;tak;M;xxxx;93;DZIDO;KAROL;Gdynia;;140;7:06:19;25579;19.70
+5;Fabijańczyk;Katarzyna;Gdańsk;ASE GDAŃSK;Magister;;K;xxxx;97;FABIJAŃCZYK;KATARZYNA;Gdańsk;;55;3:14:23;11663;16.98
+6;Fabijańczyk;Radosław;Gdańsk;ASE GDAŃSK;Magister;;M;xxxx;98;FABIJAŃCZYK;RADOSŁAW;Gdańsk;;55;3:14:16;11656;16.99
+24;Felchner;Tomasz;Kokoszkowy;DGT Sp. z o.o.;Doktor;tak;M;xxxx;105;FELCHNER;TOMASZ;Kokoszkowy;;80;3:45:12;13512;21.31
+52;Fulara;Wojciech;Gdansk;;Magister;tak;M;xxxx;109;FULARA;WOJCIECH;Gdansk;;80;3:13:54;11634;24.76
+160;Gacek;Katarzyna;Skarszewy;SKARSZEWY CYCLE TEAM;Doktor;tak;K;xxxx;111;GACEK;KATARZYNA;Skarszewy;;80;3:14:23;11663;24.69
+3;Gawińkowski;Jakub;Pruszcz Gdański;LPP Team;Doktor;tak;M;xxxx;113;GAWIŃKOWSKI;JAKUB;Pruszcz Gdański;;80;3:15:05;11705;24.60
+41;Gierszewski;Szymon;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M;xxxx;118;GIERSZEWSKI;SZYMON;Nowy Dwór Gdański;;80;4:29:02;16142;17.84
+97;Głąb;Dariusz;;;Magister;tak;M;xxxx;120;GŁĄB;DARIUSZ;Malbork;;55;3:02:18;10938;18.10
+119;Góralski;Waldemar;Pruszcz Gdański;;Profesor;tak;M;xxxx;131;GÓRALSKI;WALDEMAR;Pruszcz Gdański;;140;4:43:58;17038;29.58
+5;Gross;Aneta;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M;xxxx;140;GROSS;ANETA;Nowy Dwór Gdański;;55;2:40:52;9652;20.51
+1;Gross;Jacek;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M;xxxx;139;GROSS;JACEK;Nowy Dwór Gdański;;55;2:58:23;10703;18.50
+4;Gross;Michał;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;M;xxxx;142;GROSS;MICHAŁ;Nowy Dwór Gdański;;55;2:31:23;9083;21.80
+6;Gross;Rafał;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;M;xxxx;141;GROSS;RAFAŁ;Nowy Dwór Gdański;;80;3:51:50;13910;20.70
+7;Gruba;Piotr;Gdańsk;LPP Team;Profesor;tak;M;xxxx;143;GRUBA;PIOTR;Gdańsk;;80;3:44:54;13494;21.34
+142;Grześ;Tomasz;Gdynia;DELTAMARIN;Profesor;tak;M;xxxx;147;GRZEŚ;TOMASZ;Ciechocinek;;140;4:29:44;16184;31.14
+11;Hałusek;Grzegorz;Czapielsk;HODOWCA Sp. z o.o.;Magister;tak;M;xxxx;151;HAŁUSEK;GRZEGORZ;Gdańsk;;80;3:34:21;12861;22.39
+184;Hebel;Jakub;Tczew;;Doktor;tak;M;xxxx;152;HEBEL;JAKUB;Śliwiny;;80;4:34:27;16467;17.49
+16;Holtz;Krzysztof;Gdańsk;LPP Team;Magister;tak;M;xxxx;158;HOLTZ;KRZYSZTOF;Gdańsk;;140;6:53:58;24838;20.29
+27;Jaworski;Mariusz;Tczew;DGT Sp. z o.o.;Magister;tak;M;xxxx;170;JAWORSKI;MARIUSZ;Tczew;;80;2:51:24;10284;28.00
+25;Jegier;Adam;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M;xxxx;171;JEGIER;ADAM;Nowy Dwór Gdański;;80;4:04:39;14679;19.62
+21;Kaczyński;Mirosław;Gdańsk;DGT Sp. z o.o.;Doktor;tak;M;xxxx;175;KACZYŃSKI;MIROSŁAW;Gdańsk;;80;2:39:23;9563;30.12
+17;Kamelska;Danuta;Kowale;DGT Sp. z o.o.;Magister;tak;K;xxxx;179;KAMELSKA;DANUTA;Tczew;;55;3:39:46;13186;15.02
+178;Kanigowski;Grzegorz;Gdańsk;;Profesor;tak;M;xxxx;182;KANIGOWSKI;GRZEGORZ;Gdańsk;;140;4:20:23;15623;32.26
+3;Karpiczenko;Mateusz;Gdańsk;ASE GDAŃSK;Doktor;;M;xxxx;187;KARPICZENKO;MATEUSZ;Gdańsk;;55;3:57:57;14277;13.87
+3;Kassolik;Łucja;Gdańsk;Lufthansa Systems Poland Sp. z o.o.;Doktor;;K;xxxx;188;KASSOLIK;ŁUCJA;Gdańsk;;80;4:45:05;17105;16.84
+6;Kawczyński;Grzegorz;Gdynia;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;M;xxxx;190;KAWCZYŃSKI;GRZEGORZ;Gdynia;;80;4:00:33;14433;19.95
+6;Klemarczyk;Maciej;Gdańsk;Lufthansa Systems Poland Sp. z o.o.;Magister;;M;xxxx;204;KLEMARCZYK;MACIEJ;Gdańsk;;80;4:22:31;15751;18.28
+124;Klimowska;Anetta;Elbląg;ETT;Doktor;tak;K;xxxx;205;KLIMOWSKA;ANETTA;Elbląg;;80;2:43:16;9796;29.40
+125;Klimowski;Przemysław;Elbląg;ETT;Doktor;tak;M;xxxx;206;KLIMOWSKI;PRZEMYSŁAW;Elbląg;;140;4:32:20;16340;30.84
+1;Komorowska;Anita;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K;xxxx;216;KOMOROWSKA;ANITA;Gdynia;;80;4:16:29;15389;18.71
+11;Kopal;Agnieszka;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;K;xxxx;223;KOPAL;AGNIESZKA;Nowy Dwór Gdański;;55;2:55:47;10547;18.77
+10;Kopal;Kazimierz;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;M;xxxx;222;KOPAL;KAZIMIERZ;Nowy Dwór Gdański;;80;3:09:46;11386;25.29
+27;Kordylasiński;Edward;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M;xxxx;228;KORDYLASIŃSKI;EDWARD;Nowy Dwór Gdański;;55;2:48:39;10119;19.57
+5;Kosecki;Paweł;Gdańsk;EUROPROJEKT GDAŃSK S.A.;Doktor;;M;xxxx;229;KOSECKI;PAWEŁ;Gdańsk;;80;3:13:30;11610;24.81
+14;Kowal;Mariusz;Kowale;LPP Team;Profesor;tak;M;xxxx;232;KOWAL;MARIUSZ;Kowalw;;140;4:11:15;15075;33.43
+4;Kowalczyk;Andrzej;Gdańsk;EUROPROJEKT GDAŃSK S.A.;Doktor;;M;xxxx;234;KOWALCZYK;ANDRZEJ;Gdańsk;;80;3:38:57;13137;21.92
+6;Kozłowski;Krzysztof;Gdańsk ;USŁUGI AUTO-NAPRAWA W.J.RULEWSKI;Doktor;;M;xxxx;238;KOZŁOWSKI;KRZYSZTOF;Gdańsk;;80;2:53:55;10435;27.60
+48;Kraska;Marek;Nowy Dwór Gd.;Żuławiacy Stolmach;Doktor;tak;M;xxxx;240;KRASKA;MAREK;Nowy Dwór Gd.;;80;2:52:12;10332;27.87
+49;Kraska;Tymoteusz;Nowy Dwór Gd.;Żuławiacy Stolmach;Doktor;tak;M;xxxx;241;KRASKA;TYMOTEUSZ;Nowy Dwór Gd.;;80;3:40:17;13217;21.79
+30;Krawczyk;Wojciech;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;M;xxxx;244;KRAWCZYK;WOJCIECH;Ach Żuławy;;80;3:14:24;11664;24.69
+157;Krzemiński;Piotr;Gdańsk;AKADEMICKI KLUB MORSKI;Doktor;tak;M;xxxx;249;KRZEMIŃSKI;PIOTR;Gdańsk;;80;3:01:47;10907;26.41
+53;Krzyszkowska;Ewa;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K;xxxx;250;KRZYSZKOWSKA;EWA;Gdynia;;80;4:05:25;14725;19.56
+52;Krzyszkowski;Maciej;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M;xxxx;251;KRZYSZKOWSKI;MACIEJ;Gdynia;;80;4:05:25;14725;19.56
+54;Krzyszkowski;Michał;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M;xxxx;252;KRZYSZKOWSKI;MICHAŁ;Gdynia;;80;4:05:04;14704;19.59
+239;Kuchta;Dariusz;Kartuzy;PYJO;Magister;tak;M;xxxx;255;KUCHTA;DARIUSZ;Kartuzy;;55;2:28:08;8888;22.28
+10;Kuhn;Piotr;Gdańsk;ASE GDAŃSK;Doktor;tak;M;xxxx;257;KUHN;PIOTR;Gdańsk;;80;3:52:42;13962;20.63
+2;Kulwiński;Przemysław;Gdańsk;EUROPROJEKT GDAŃSK S.A.;Doktor;;M;xxxx;260;KULWIŃSKI;PRZEMYSŁAW;Gdańsk;;80;2:39:17;9557;30.13
+8;Kwiatkowski;Sławomir;Gdynia;;Profesor;tak;M;xxxx;264;KWIATKOWSKI;SŁAWOMIR;Gdynia;;140;5:14:59;18899;26.67
+5;Leśniewski;Rafał;Gdańsk;DGT Sp. z o.o.;Magister;tak;M;xxxx;274;LEŚNIEWSKI;RAFAŁ;Gdańsk;;55;2:24:27;8667;22.85
+39;Leśniowski;Krzysztof;Elbląg;;Magister;tak;M;xxxx;275;LEŚNIOWSKI;KRZYSZTOF;Elbląg;;55;2:04:58;7498;26.41
+2;Lichtoń;Kamila;Marzęcino;USŁUGI AUTO-NAPRAWA W.J.RULEWSKI;Magister;;K;xxxx;276;LICHTOŃ;KAMILA;Powalina;;80;4:03:33;14613;19.71
+107;Łonski;Robert;Gdańsk;AKORD;Doktor;tak;M;xxxx;292;ŁONSKI;ROBERT;Gdańsk;;140;5:59:14;21554;23.38
+35;Łukasiuk;Piotr;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M;xxxx;296;ŁUKASIUK;PIOTR;Nowy Dwór Gdański;;55;2:08:28;7708;25.69
+2;Łunkiewicz;Michał;Gdańsk;LPP Team;Magister;tak;M;xxxx;297;ŁUNKIEWICZ;MICHAŁ;Gdańsk;;55;3:06:22;11182;17.71
+16;Maciaszek;Piotr;Gdańsk;;Doktor;tak;M;xxxx;299;MACIASZEK;PIOTR;Gdańsk;;80;3:52:43;13963;20.63
+1;Marko;Andrzej;Gdańsk;DGT Sp. z o.o.;Magister;tak;M;xxxx;305;MARKO;ANDRZEJ;Gdańsk;;80;3:45:14;13514;21.31
+126;Melzacka;Anna;Gdańsk;1983;Doktor;tak;K;xxxx;316;MELZACKA;ANNA;Gdańsk;;80;3:44:52;13492;21.35
+1;Michalak;Jarosław;Gdańsk;LPP Team;Doktor;tak;M;xxxx;317;MICHALAK;JAROSŁAW;Gdańsk;;80;3:19:17;11957;24.09
+12;Mikicki;Krzysztof;Gdynia;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;M;xxxx;321;MIKICKI;KRZYSZTOF;Gdynia;;80;3:32:19;12739;22.61
+93;Miszewski;Jan;Gdańsk;JANSOLO;Magister;tak;M;xxxx;327;MISZEWSKI;JAN;Gdańsk;;80;3:04:18;11058;26.04
+29;Miziołek;Ewa;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;K;xxxx;329;MIZIOŁEK;EWA;Gdańsk;;80;4:02:39;14559;19.78
+51;Młynarski;Mariusz;Sosnowiec;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M;xxxx;330;MŁYNARSKI;MARIUSZ;Sosnowiec;;80;4:02:42;14562;19.78
+117;Młyński;Adrian;Gdańsk;;Doktor;tak;M;xxxx;331;MŁYŃSKI;ADRIAN;Gdańsk;;80;4:59:32;17972;16.02
+3;Momont;Joanna;Gdansk;INTEL;Magister;;K;xxxx;334;MOMONT;JOANNA;Gdansk;;55;4:07:29;14849;13.33
+5;Moniuszko;Hubert;Gdańsk;Lufthansa Systems Poland Sp. z o.o.;Doktor;;M;xxxx;335;MONIUSZKO;HUBERT;Gdańsk;;80;2:36:57;9417;30.58
+7;Mrall;Jarosław;Gdańsk;DGT Sp. z o.o.;Doktor;tak;M;xxxx;336;MRALL;JAROSŁAW;Gdańsk;;80;2:36:38;9398;30.64
+85;Najdowski;Adam;Iława;MUNDUR NA ROWERZE;Profesor;tak;M;xxxx;341;NAJDOWSKI;ADAM;Iława;;80;3:41:31;13291;21.67
+166;Olszewski;Karol;Gdynia;;Magister;tak;M;xxxx;356;OLSZEWSKI;KAROL;Gdańsk;;80;3:44:26;13466;21.39
+2;Orlikowski;Grzegorz;Starogard Gdański;ASE GDAŃSK;Doktor;;M;xxxx;359;ORLIKOWSKI;GRZEGORZ;Starogard Gdański;;80;4:01:01;14461;19.92
+189;Orłowska;Agata;Rumia;;Magister;tak;K;xxxx;361;ORŁOWSKA;AGATA;Gdynia;;55;3:04:52;11092;17.85
+1;Orzech;Karolina;Gdańsk;EUROPROJEKT GDAŃSK S.A.;Doktor;;K;xxxx;364;ORZECH;KAROLINA;Gdańsk;;80;3:52:50;13970;20.62
+59;Pankowski;Zbyszko;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M;xxxx;376;PANKOWSKI;ZBYSZKO;Gdańsk;;140;6:40:47;24047;20.96
+60;Pankowski;Rafał;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M;xxxx;375;PANKOWSKI;RAFAŁ;Gdańsk;;80;3:49:19;13759;20.93
+78;Patok;Gerard;Wejherowo;CCC POLKOWICE;Magister;tak;M;xxxx;382;PATOK;GERARD;Wejherowo;;55;2:16:10;8170;24.24
+159;Pączek;Stanisław;Rumia;;Magister;tak;M;xxxx;383;PĄCZEK;STANISŁAW;Rumia;;55;2:35:15;9315;21.26
+2;Pękalska;Monika;Elbląg;;Magister;tak;K;xxxx;386;PĘKALSKA;MONIKA;Elbląg;;55;2:58:37;10717;18.48
+32;Piasek;Marcin;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M;xxxx;387;PIASEK;MARCIN;Nowy Dwór Gdański;;55;3:12:30;11550;17.14
+217;Piątkowska;Agnieszka;Gdańsk;;Magister;tak;K;xxxx;388;PIĄTKOWSKA;AGNIESZKA;Gdynia;;55;3:13:47;11627;17.03
+12;Piekarczyk;Adam;Gdańsk;INTEL;Magister;;M;xxxx;391;PIEKARCZYK;ADAM;Gdańsk;;80;4:52:45;17565;16.40
+52;Pielecki;Zbigniew;Nowy Dwór Gdański;Żuławiacy Stolmach;Profesor;tak;M;xxxx;396;PIELECKI;ZBIGNIEW;Nowy Dwór Gdański;;80;2:38:19;9499;30.32
+4;Piwowarska;Karolina;Gdynia;ASE GDAŃSK;Magister;;K;xxxx;406;PIWOWARSKA;KAROLINA;Gdynia;;55;3:14:19;11659;16.98
+19;Pniewski;Jaroslaw;Rumia;;Profesor;tak;M;xxxx;409;PNIEWSKI;JAROSLAW;Rumia;;140;5:29:49;19789;25.47
+18;Pogorzelski;Adam;Gdansk;DGT Sp. z o.o.;Magister;tak;M;xxxx;412;POGORZELSKI;ADAM;Gdańsk;;55;2:54:00;10440;18.97
+216;Przechlewski;Tomasz;Sopot;;Profesor;tak;M;xxxx;418;PRZECHLEWSKI;TOMASZ;Sopot;;140;5:42:03;20523;24.56
+91;Pudło;Marcin;Gdańsk;;Profesor;tak;M;xxxx;421;PUDŁO;MARCIN;Gdańsk;;140;5:53:29;21209;23.76
+16;Rejszel;Stanisław;Kowale;DGT Sp. z o.o.;Magister;tak;M;xxxx;427;REJSZEL;STANISŁAW;Kowale;;55;3:39:41;13181;15.02
+89;Rostankowska;Bernadeta;Czersk;;Doktor;tak;K;xxxx;431;ROSTANKOWSKA;BERNADETA;Czersk;;140;5:43:04;20584;24.49
+1;Rulewski;Wiesław;Marzęcino;USŁUGI AUTO-NAPRAWA W.J.RULEWSKI;Magister;;M;xxxx;438;RULEWSKI;WIESŁAW;Marzęcino;;80;4:03:34;14614;19.71
+56;Rutkowski;Marcin;Gdynia;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;M;xxxx;441;RUTKOWSKI;MARCIN;Gdynia;;80;4:01:22;14482;19.89
+2;Rybołowicz;Anna;Gdynia;Rockwell Automation Sp. z o.o.;Magister;;K;xxxx;443;RYBOŁOWICZ;ANNA;Gdynia;;80;4:13:22;15202;18.94
+57;Sadowski;Daniel;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;M;xxxx;450;SADOWSKI;DANIEL;Gdańsk;;80;3:31:09;12669;22.73
+1;Sakłak;Wojciech;Banino;AWFiS;Doktor;;M;xxxx;652;SAKŁAK;WOJCIECH;0;;140;5:53:12;21192;23.78
+197;Sekida;Mateusz;Gościcino;;Profesor;tak;M;xxxx;455;SEKIDA;MATEUSZ;Gościcino;;140;4:28:47;16127;31.25
+183;Siedlecka;Monika;Kościerzyna;;Doktor;tak;K;xxxx;458;SIEDLECKA;MONIKA;Kościerzyna;;80;4:34:26;16466;17.49
+7;Sienkiewicz;Zygmunt;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M;xxxx;459;SIENKIEWICZ;ZYGMUNT;Nowy Dwór Gdański;;80;3:21:15;12075;23.85
+50;Sikora;Dariusz;Nowy Dwór Gdański;Żuławiacy Stolmach;Profesor;tak;M;xxxx;460;SIKORA;DARIUSZ;Nowy Dwór Gdański;;140;4:06:45;14805;34.04
+14;Skruch;Sławomir;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M;xxxx;465;SKRUCH;SŁAWOMIR;Gdańsk;;80;4:12:10;15130;19.04
+80;Sobieraj;Jarosław;Gdynia;MAJ;Magister;tak;M;xxxx;469;SOBIERAJ;JAROSŁAW;Gdynia;;80;4:16:30;15390;18.71
+17;Sosnowski;Piotr;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M;xxxx;471;SOSNOWSKI;PIOTR;Nowy Dwór Gdański;;80;3:53:06;13986;20.59
+9;Starczewski;Bartosz;Gdansk;ATENA Usługi Informatyczne i Finansowe;Profesor;tak;M;xxxx;481;STARCZEWSKI;BARTOSZ;Gdańsk;;80;3:50:13;13813;20.85
+140;Stasiewski;Kamil;Elbląg;;Doktor;tak;M;xxxx;484;STASIEWSKI;KAMIL;Elbląg;;80;3:22:10;12130;23.74
+139;Stasiewski;Paweł;Elbląg;;Doktor;tak;M;xxxx;483;STASIEWSKI;PAWEŁ;Elbląg;;80;3:22:29;12149;23.71
+20;Sygitowicz;Szymon;Gdańsk;DGT Sp. z o.o.;Magister;tak;M;xxxx;498;SYGITOWICZ;SZYMON;Gdańsk;;55;2:43:02;9782;20.24
+2;Szczepkowski;Zenon;Gdańsk;Wakacje.pl S.A.;Doktor;;M;xxxx;505;SZCZEPKOWSKI;ZENON;Gdańsk;;80;3:12:01;11521;25.00
+8;Sztabińska;Anna;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;K;xxxx;510;SZTABIŃSKA;ANNA;Nowy Dwór Gdański;;80;4:20:28;15628;18.43
+9;Sztabiński;Piotr;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;M;xxxx;511;SZTABIŃSKI;PIOTR;Nowy Dwór Gdański;;80;3:43:56;13436;21.43
+80;Sztokinger;Jarosław;Gdynia;ATENA Usługi Informatyczne i Finansowe;Profesor;;M;xxxx;512;SZTOKINGER;JAROSŁAW;Gdynia;;80;2:23:55;8635;33.35
+66;Sztormowski;Rafał;Sopot;ATENA Usługi Informatyczne i Finansowe;Profesor;tak;M;xxxx;513;SZTORMOWSKI;RAFAŁ;Sopot;;55;4:37:34;16654;11.89
+23;Świetlińska;Marta;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;K;xxxx;523;ŚWIETLIŃSKA;MARTA;Nowy Dwór Gdański;;55;2:40:51;9651;20.52
+1;Tomaszewski;Michał;Gdańsk;SOLWIT SA;Profesor;tak;M;xxxx;526;TOMASZEWSKI;MICHAŁ;Gdańsk;;140;4:21:25;15685;32.13
+72;Trusewicz;Piotr;Pruszcz Gd;;Magister;tak;M;xxxx;533;TRUSEWICZ;PIOTR;Gdańsk;;55;3:03:36;11016;17.97
+28;Tumkiewicz;Jan;Gdynia;TANDEM GDYNIA;Doktor;tak;M;xxxx;539;TUMKIEWICZ;JAN;Gdynia;;80;4:03:11;14591;19.74
+28;Tur;Ireneusz;Żukowo;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M;xxxx;542;TUR;IRENEUSZ;Żukowo;;140;5:05:53;18353;27.46
+27;Tur;Anna;Żukowo;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K;xxxx;541;TUR;ANNA;Żukowo;;80;4:05:54;14754;19.52
+16;Udodau;Pavel;Gdynia;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;M;xxxx;544;UDODAU;PAVEL;Gdynia;;55;4:25:38;15938;12.42
+243;Walkowski;Karol;Prabuty;;Doktor;tak;M;xxxx;553;WALKOWSKI;KAROL;Prabuty;;80;3:22:58;12178;23.65
+234;Wanat;Kazimierz;Gdynia;ŻUCHLIŃSKI ROWERY;Profesor;tak;M;xxxx;555;WANAT;KAZIMIERZ;Ogonowo;;140;4:43:58;17038;29.58
+196;Wawrocka;Jadwiga;Gdańsk;;Magister;tak;K;xxxx;561;WAWROCKA;JADWIGA;Gdańsk;;55;3:35:24;12924;15.32
+199;Wawrzyński;Tomasz;Gdynia;PORT GDYNIA SPORT TEAM;Profesor;tak;M;xxxx;563;WAWRZYŃSKI;TOMASZ;Gdynia;;80;2:19:55;8395;34.31
+10;Werner;Janusz;Gdańsk;WOLTERS KLUWER POLSKA SP....;Magister;tak;M;xxxx;568;WERNER;JANUSZ;Gdańsk;;55;3:00:24;10824;18.29
+15;Wiśniewski;Tomasz;Gdynia;LPP Team;Profesor;tak;M;xxxx;586;WIŚNIEWSKI;TOMASZ;Gdynia;;140;4:11:15;15075;33.43
+2;Wójcik;Roman;Gdynia;SWORD spółka z ograniczoną odpowiedzialnością;Magister;tak;M;xxxx;596;WÓJCIK;ROMAN;Gdynia;;55;1:49:08;6548;30.24
+55;Wróblewski;Krzysztof;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M;xxxx;602;WRÓBLEWSKI;KRZYSZTOF;Gdynia;;80;4:05:05;14705;19.59
+38;Wycichowski;Wojciech;Ostaszewo;Żuławiacy Stolmach;Profesor;tak;M;xxxx;604;WYCICHOWSKI;WOJCIECH;Ostaszewo;;140;6:16:59;22619;22.28
+67;Wypasek;Krystyna;Sopot;ATENA Usługi Informatyczne i Finansowe;Profesor;tak;K;xxxx;605;WYPASEK;KRYSTYNA;Sopot;;55;4:34:17;16457;12.03
+10;Wysocki;Piotr;Gdynia;DGT Sp. z o.o.;Magister;tak;M;xxxx;664;WYSOCKI;PIOTR;0;;80;2:50:47;10247;28.11
+10;Wysocki;Piotr;Gdynia;DGT Sp. z o.o.;Magister;tak;M;xxxx;606;WYSOCKI;PIOTR;Gdynia;;80;2:52:49;10369;27.78
+30;Zacharczuk;Czesław;Siemirowice;;Doktor;tak;M;xxxx;607;ZACHARCZUK;CZESŁAW;Siemirowice;;80;3:33:19;12799;22.50
+4;Zalewska;Agata;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K;xxxx;611;ZALEWSKA;AGATA;Gdańsk;;55;4:21:28;15688;12.62
+2;Zalewski;Robert;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M;xxxx;612;ZALEWSKI;ROBERT;Gdańsk;;55;4:21:54;15714;12.60
+121;Zdończyk;Jakub;Gdańsk;;Doktor;tak;M;xxxx;617;ZDOŃCZYK;JAKUB;Gdynia;;80;4:59:30;17970;16.03
+120;Zdończyk;Mirosław;Gdańsk;;Doktor;tak;M;xxxx;616;ZDOŃCZYK;MIROSŁAW;Gdynia;;80;4:59:28;17968;16.03
+54;Zwiewka;Marek;Sztutowo;Żuławiacy Stolmach;Doktor;tak;M;xxxx;624;ZWIEWKA;MAREK;Sztutowo;;140;4:01:43;14503;34.75
+15;Zylka;Monika;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;K;xxxx;627;ZYLKA;MONIKA;Nowy Dwór Gdański;;55;2:44:57;9897;20.01

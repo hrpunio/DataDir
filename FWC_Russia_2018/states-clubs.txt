@@ -1,0 +1,386 @@
+==> UK (138)
+  ManchesterCity 15 NicolasOtamendi;SergioAguero;VincentKompany;KevinDeBruyne;Ederson;Danilo;Fernandinho;GabrielJesus;JohnStones;FabianDelph;RaheemSterling;DavidSilva;BenjaminMendy;IlkayGuendogan;BernardoSilva;
+  ChelseaLondyn 13 WilfredoCaballero;ThibautCourtois;EdenHazard;MichyBatshuayi;Willian;AndreasChristensen;GaryCahill;RubenLoftus-Cheek;CesarAzpilicueta;N'GoloKante;OlivierGiroud;AntonioRuediger;VictorMoses;
+  TottenhamHotspur 13 TobyAlderweireld;JanVertonghen;MousaDembele;DavinsonSanchez;ChristianEriksen;KyleWalker;DannyRose;KieranTrippier;EricDier;DeleAlli;HarryKane;HugoLloris;SonHeung-min;
+  ManchesterUnited 11 MarcosRojo;MarouaneFellaini;RomeluLukaku;PhilJones;AshleyYoung;JesseLingard;MarcusRashford;DaviddeGea;PaulPogba;NemanjaMatić;VictorLindeloef;
+  LeicesterCity 8 KasperSchmeichel;HarryMaguire;JamieVardy;ShinjiOkazaki;WilfredNdidi;KelechiIheanacho;AdrienSilva;YohanBenalouane;
+  Liverpool 8 SimonMignolet;RobertoFirmino;DejanLovren;MohamedSalah;TrentAlexander-Arnold;JordanHenderson;SadioMane;MarkoGrujić;
+  ArsenalLondyn 7 DavidOspina;MohamedElneny;DannyWelbeck;NachoMonreal;MesutOezil;AlexIwobi;GranitXhaka;
+  StokeCity 5 RamadanSobhy;JackButland;PapaAliouneNdiaye;MameBiramDiouf;XherdanShaqiri;
+  CelticGlasgow 4 TomRogic;DedryckBoyata;CristianGamboa;MikaelLustig;
+  SwanseaCity 4 KiSung-yueng;ŁukaszFabiański;KristofferNordfeldt;MartinOlsson;
+  WestHamUnited 4 ManuelLanzini;JavierHernandez;JoaoMario;CheikhouKouyate;
+  SouthamptonFC 4 MayaYoshida;JanBednarek;CedricSoares;DusanTadić;
+  HullCity 3 JacksonIrvine;KamilGrosicki;SebastianLarsson;
+  Brighton&HoveAlbion 3 MathewRyan;JoseIzquierdo;LeonBalogun;
+  Everton 3 JordanPickford;GylfiSigurdsson;IdrissaGueye;
+  AstonVilla 3 MileJedinak;AhmedElmohamady;BirkirBjarnason;
+  HuddersfieldTown 3 AaronMooy;JonasLoessl;MathiasJoergensen;
+  WestBromwichAlbion 3 NacerChadli;AliGabr;AhmedHegazi;
+  Burnley 2 NickPope;JohannBergGudmundsson;
+  Millwall 2 JamesMeredith;TimCahill;
+  WolverhamptonWanderers 2 RomainSaiss;AlfredN’Diaye;
+  IpswichTown 2 JonasKnudsen;BartoszBiałkowski;
+  Watford 1 AndreCarrillo;
+  LeedsUnited 1 PontusJansson;
+  BirminghamCity 1 CheikhN’Doye;
+  NottinghamForest 1 AshkanDejagah;
+  NewcastleFC 1 AleksandarMitrović;
+  Reading 1 JonDadiBodvarsson;
+  QueensParkRangers 1 MassimoLuongo;
+  Sunderland 1 BryanOviedo;
+  Aberdeen 1 KariArnason;
+  BristolCity 1 LilyBergenMagnusson;
+  CrystalPalace 1 LukaMilivojević;
+  RangersFC 1 BrunoAlves;
+  WiganAthletic 1 SamMorsy;
+  Brentford 1 HenrikDalsgaard;
+  Hibernian 1 JamieMaclaren;
+  CardiffCity 1 AronEinarGunnarsson;
+==> ES (81)
+  RealMadryt 15 Marcelo;Casemiro;KeylorNavas;MateoKovacić;LukaModrić;DaniCarvajal;NachoFernandez;SergioRamos;MarcoAsensio;Isco;LucasVazquez;RaphaelVarane;ToniKroos;AchrafHakimi;CristianoRonaldo;
+  FCBarcelona 14 LionelMessi;ThomasVermaelen;PhilippeCoutinho;Paulinho;YerryMina;IvanRakitić;GerardPique;JordiAlba;SergioBusquets;AndresIniesta;SamuelUmtiti;OusmaneDembele;Marc-AndreTerStegen;LuisSuarez;
+  AtleticoMadryt 9 FilipeLuis;SimeVrsaljko;SaulNiguez;Koke;DiegoCosta;LucasHernandez;AntoineGriezmann;JoseMariaGimenez;DiegoGodin;
+  SevillaFC 6 GabrielMercado;EverBanega;LuisMuriel;SimonKjaer;StevenNzonzi;MiguelLayun;
+  DeportivoLaCoruna 5 CelsoBorges;MichaelKrohn-Dehli;FrancisUzoho;IsmaelDiaz;FabianSchaer;
+  VillarrealCF 4 CarlosBacca;DenisCzeryszew;SalemAl-Dawsari;AntonioRukavina;
+  Girona 3 JohanMojica;YassineBounou;CristhianStuani;
+  CeltaVigo 3 PioneSisto;IagoAspas;MaximilianoGomez;
+  RealSociedad 3 AdnanJanuzaj;AlvaroOdriozola;HectorMoreno;
+  Leganes 2 NoureddineAmrabat;YehyaAl-Shehri;
+  Levante 2 JeffersonLerma;FahadAl-Muwallad;
+  Getafe 2 GakuShibasaki;FaycalFajr;
+  RealBetis 2 JoelCampbell;AndresGuardado;
+  Valencia 2 RodrigoMoreno;GoncaloGuedes;
+  SDEibar 2 TakashiInui;MarkoDmitrović;
+  Espanyol 2 CarlosSanchez;OscarDuarte;
+  Malaga 1 YoussefEnNesyri;
+  DeportivoAlaves 1 JohnGuidetti;
+  Numancia 1 MounirElKajoui;
+  LasPalmas 1 OghenekaroEtebo;
+  AthleticBilbao 1 KepaArrizabalaga;
+==> DE (65)
+  BayernMonachium 11 JamesRodriguez;ThiagoAlcantara;CorentinTolisso;ManuelNeuer;MatsHummels;NiklasSuele;JeromeBoateng;JoshuaKimmich;ThomasMueller;SebastianRudy;RobertLewandowski;
+  BorussiaMoenchengladbach 7 ThorganHazard;JannikVestergaard;MatthiasGinter;YannSommer;NicoElvedi;DenisZakaria;JosipDrmic;
+  BorussiaDortmund 6 MarcoReus;TakashiUsami;ŁukaszPiszczek;RaphaelGuerreiro;RomanBuerki;AkanjiManual;
+  EintrachtFrankfurt 6 AnteRebić;MakotoHasebe;CarlosSalcedo;MarcoFabian;LukaJović;GelsonFernandes;
+  Schalke04 4 MarkoPjaca;LeonGoretzka;AmineHarit;BreelEmbolo;
+  RBLipsk 4 YussufPoulsen;TimoWerner;YvonMvogo;EmilForsberg;
+  HamburgerSV 3 GotokuSakai;FilipKostić;AlbinEkdal;
+  WerderBrema 3 ThomasDelaney;MilosVeljkovic;LudwigAugustinsson;
+  VfLWolfsburg 2 KoenCasteels;JakubBłaszczykowski;
+  HerthaBerlin 2 MatthewLeckie;MarvinPlattenhardt;
+  BayerLeverkusen 2 TinJedvaj;JulianBrandt;
+  VfBStuttgart 2 BenjaminPavard;MarioGomez;
+  FortunaDusseldorf 2 GenkiHaraguchi;ShinjiKagawa;
+  1.FCKoeln 1 JonasHector;
+  FCAugsburg 1 KooJa-cheol;
+  FCKoeln 1 YuyaOsako;
+  TSGHoffenheim 1 StevenZuber;
+  Augsburg 1 AlfredFinnbogason;
+  Hoffenheim 1 AndrejKramarić;
+  St.Pauli 1 AzizBouhaddouz;
+  SVSandhausen 1 RurikGislason;
+  VfLBochum 1 RobbieKruse;
+  FSVMainz 1 YoshinoriMuto;
+  Hannover96 1 SalifSane;
+==> IT (58)
+  JuventusTuryn 11 GonzaloHiguain;PauloDybala;DouglasCosta;JuanCuadrado;MarioMandzukić;BlaiseMatuidi;SamiKhedira;MehdiBenatia;WojciechSzczęsny;StephanLichtsteiner;RodrigoBentancur;
+  ACMilan 5 LucasBiglia;CristianZapata;NikolaKalinić;AndreSilva;RicardoRodriguez;
+  SampdoriaGenua 5 IvanStrinic;BartoszBereszyński;KarolLinetty;DawidKownacki;LucasTorreira;
+  Bologna 4 GiancarloGonzalez;BlerimDżemaili;FilipHelander;EmilKrafth;
+  InterMediolan 4 Miranda;MarceloBrozović;IvanPerisić;MatiasVecino;
+  SSCNapoli 4 DriesMertens;PiotrZieliński;ArkadiuszMilik;KalidouKoulibaly;
+  Torino 4 CristianAnsaldi;JoelObi;M’BayeNiang;AdemLjajić;
+  ASRoma 3 FedericoFazio;Alisson;AleksandarKolarov;
+  Udinese 3 JensStryger;EmilHallfredhsson;ValonBehrami;
+  Crotone 2 SimoenNwankwo;MarcusRohden;
+  Napoli 2 PepeReina;MarioRui;
+  LazioRzym 2 SergejMilinković-Savić;MartinCaceres;
+  SPAL2013 2 ThiagoCionek;AlfredGomis;
+  Genoa 2 OscarHiljemark;DiegoLaxalt;
+  AtalantaBergamo 2 AndreasCornelius;RemoFreuler;
+  ACFFiorentina 1 NikolaMilenković;
+  HellasVerona 1 LeeSeung-woo;
+  Fiorentina 1 MilanBadelj;
+==> FR (43)
+  ParisSaint-Germain 13 AngeldiMaria;GiovaniLoCelso;ThomasMeunier;ThiagoSilva;Marquinhos;Neymar;AlphonseAreola;PresnelKimpembe;KylianMbappe;KevinTrapp;JulianDraxler;GrzegorzKrychowiak;EdinsonCavani;
+  OlympiqueMarsylia 4 SteveMandanda;AdilRami;FlorianThauvin;HirokiSakai;
+  GirondinsBordeaux 3 LukasLerager;MartinBraithwaite;YoussoufSabaly;
+  StadeRennais 3 AbdoulayeDiallo;DiafraSakho;IsmaïlaSarr;
+  Rennes 2 JuanQuintero;WahbiKhazri;
+  OlympiqueLyon 2 NabilFekir;AnthonyLopes;
+  Dijon 2 OussamaHaddadi;NaimSliti;
+  Toulouse 2 JimmyDurmaz;OlaToivonen;
+  Guingamp 1 KarlJohanJohnsson;
+  FCToulouse 1 Jacques-FrancoisMoubandje;
+  Lille 1 HamzaMendyl;
+  Nantes 1 ChidozieAwaziem;
+  Troyes 1 SeifeddineElKhaoui;
+  Nice 1 BassemSrarfi;
+  Caen 1 YoussefAitBennasser;
+  FCMetz 1 EijiKawashima;
+  AmiensSC 1 MoussaKonate;
+  Chateauroux 1 MouezHassen;
+  ValenciennesFC 1 SaliouCiss;
+  Montpellier 1 EllyesSkhiri;
+==> RU (38)
+  CSKAMoskwa 6 AhmedMusa;IgorAkinfiejew;MarioFernandes;SiergiejIgnaszewicz;AlanDzagojew;AleksandrGołowin;
+  ZenitSanktPetersburg 6 AndriejŁuniow;IgorSmolnikow;DalerKuzjajew;JurijŻyrkow;AleksandrJerochin;BranislavIvanović;
+  LokomotiwMoskwa 6 VedranCorluka;JeffersonFarfan;MaciejRybus;ManuelFernandes;AleksiejMiranczuk;AntonMiranczuk;
+  FKKrasnodar 4 JurijGazinski;FiodorSmołow;AndreasGranqvist;VictorClaesson;
+  SpartakMoskwa 3 IljaKutiepow;RomanZobnin;AleksandrSamiedow;
+  FKRostów 3 SverrirIngiIngason;RagnarSigurdsson;BjoernBergmannSigurdarson;
+  RubinKazań 3 SardarAzmoun;FiodorKudriaszow;WładimirGranat;
+  SzachtarDonieck 2 Fred;Taison;
+  AmkarPerm 2 SaeidEzatolahi;BrianIdowu;
+  AchmatGrozny 2 MiladMohammad;AndriejSiemionow;
+  ArsienałTuła 1 ArtiomDziuba;
+==> SA (29)
+  Al-Hilal 9 AbdullahAl-Mayuf;OsamaHawsawi;AliAl-Bulaihi;MohammedAl-Breik;YasserAl-Shahrani;SalmanAl-Faraj;AbdulmalekAl-Khaibri;MohamedKanno;AbdullahOtayf;
+  Al-Ahli 8 MarkMilligan;YasserAl-Musailem;MohammedAl-Owais;MansoorAl-Harbi;MotazHawsawi;HoussainAl-Mogahwi;TaiseerAl-Jassim;MuhannadAssiri;
+  Al-Shabab 3 HattanBahebri;AbdullahAl-Khaibari;FaroukBenMustapha;
+  Al-Nassr 2 OmarOthman;MohammadAl-Sahlawi;
+  Al-Batin 1 AymenMathlouthi;
+  Ettifaq 1 FakhreddineBenYoussef;
+  Al-Ittihad 1 MahmoudKahraba;
+  AlTaawoun 1 EssamElHadary;
+  AlRaed 1 Shikabala;
+  AlFateh 1 MohamedAbdelshafy;
+  Al-AhliDżudda 1 MohamedAmineBenAmor;
+==> MX (22)
+  America 3 MateusUribe;OribePeralta;EdsonAlvarez;
+  Tigres 3 NahuelGuzman;HugoAyala;JavierAquino;
+  Veracruz 2 ChristianRamos;WilderCartagena;
+  Monterrey 2 CarlosSanchez;JonathanUrretaviscaya;
+  Pachuca 2 OscarMurillo;KeisukeHonda;
+  LobosBUAP 2 LuisAdvincula;PedroAquino;
+  CruzAzul 1 JesusCorona;
+  CafetalerosdeTapachula 1 EdgarBarcenas;
+  PumasUNAM 1 JesusGallardo;
+  Toluca 1 AlfredoTalavera;
+  Puebla 1 AndersonSantamaria;
+  TiburonesRojosdeVeracruz 1 PedroGallese;
+  Morelia 1 RaulRuidiaz;
+  Atlas 1 RafaelMarquez;
+==> TR (21)
+  Bursaspor 4 AzizBehich;WilliamEkongTroost;AbdullahiShehu;MoussaSow;
+  Galatasaray 3 YutoNagatomo;YounesBelhanda;FernandoMuslera;
+  Kasimpasa 3 MahmoudHassan(Trezegeut);KennethOmeruo;SyamBenYoussef;
+  Besiktas 3 DomagojVida;Pepe;RicardoQuaresma;
+  Trabzonspor 1 OgenyiOnazi;
+  Basakaehir 1 ManuelDaCosta;
+  Karabukspor 1 OlafurIngiSkulason;
+  Fenerbahce 1 NabilDirar;
+  AlanyasporKulubu 1 LamineGassama;
+  AntalyasporAS 1 JohanDjourou;
+  Goztepe 1 Beto;
+  Malatyaspor 1 KhalidBoutaib;
+==> PT (19)
+  SportingLizbona 7 MarcosAcuna;BryanRuiz;RuiPatricio;WilliamCarvalho;BrunoFernandes;GelsonMartins;SebastianCoates;
+  BenficaLizbona 5 EduardoSalvio;RaulJimenez;RubenDias;AndrijaZivković;HarSeferovic;
+  FCPorto 5 DiegoReyes;HectorHerrera;JesusManuelCorona;RicardoPereira;MaximilianoPereira;
+  MaritimoFunchal 1 AmirAbedzadeh;
+  VitoriaGuimaraes 1 PaoloHurtado;
+==> US (19)
+  LosAngelesFC 3 MarcoUrena;OmarGaber;CarlosVela;
+  SanJoséEarthquakes 2 HaroldCummings;AníbalGodoy;
+  NewYorkCityFC 2 RonaldMatarrita;RodneyWallace;
+  PortlandTimbers 2 DavidGuzman;AndyPolo;
+  NewYorkRedBulls 2 MichaelMurillo;FidelEscobar;
+  LAGalaxy 2 JonathanDosSantos;GiovaniDosSantos;
+  OrlandoCity 1 YoshimarYotun;
+  HoustonDynamo 1 AdolfoMachado;
+  SeattleSounders 1 GustavSvensson;
+  SanFranciscoFC 1 AlexRodriguez;
+  MinnesotaUnited 1 FranciscoCalvo;
+  SeattleSoundersSC 1 RomanTorres;
+==> BE (16)
+  RSCAnderlecht 4 LeanderDendoncker;ŁukaszTeodorczyk;KaraMbodj;UrosSpajić;
+  KAAGent 4 LovreKalinić;RicardoAvila;JoseLuisRodriguez;DylanBronn;
+  StandardLiege 2 MehdiCarcela-Gonzalez;GuillermoOchoa;
+  Lokeren 1 AriFreyrSkulason;
+  CercleBrugge 1 EldersonEchiejiole;
+  Genk 1 DannyVuković;
+  Waasland-Beveren 1 IsaacKieseThelin;
+  KASEupen 1 MoussaWague;
+  ClubBrugge 1 WładimirGabułow;
+==> NL (15)
+  FeyenoordRotterdam 5 BradJones;NicolaiJoergensen;KarimElAhmadi;SofyanAmrabat;RenatoTapia;
+  AjaxAmsterdam 4 NicolasTagliafico;LasseSchone;KasperDolberg;HakimZiyech;
+  PSVEindhoven 3 SantiagoArias;AlbertGudmundsson;HirvingLozano;
+  Heerenveen 1 RezaGhoochannejhad;
+  AZAlkmaar 1 AlirezaJahanbakhsh;
+  ADODenHaag 1 TyronneEbuehi;
+==> JP (15)
+  UrawaRedDiamonds 3 AndrewNabbout;WataruEndo;TomoakiMakino;
+  VisselKobe 2 KimSeung-gyu;JungWoo-young;
+  KashimaAntlers 2 NaomichiUeda;GenShoji;
+  CerezoOsaka 2 HotaruYamaguchi;KimJin-hyeon;
+  GambaOsaka 1 MasaakiHigashiguchi;
+  FCTokio 1 JangHyun-soo;
+  KawasakiFrontale 1 RyotaOshima;
+  YokohamaF.Marino 1 MilosDegenek;
+  SeganTosuFC 1 JungSeung-hyun;
+  KashiwaReysol 1 KosukeNakamura;
+==> KR (13)
+  JeonbukHyundaiMotors 3 LeeYong;LeeJae-sung;KimShin-wook;
+  SangjuSangmu 2 KimMin-woo;HongChul;
+  AsanMugunghwaFC 1 JuSe-jong;
+  SuwonBluewings 1 MatthewJurman;
+  IncheonUnited 1 MoonSeon-min;
+  UlsanHyundai 1 ParkJoo-ho;
+  JejuUnited 1 OhBan-suk;
+  DaeguFC 1 ChoHyun-woo;
+  FCSeul 1 GoYo-han;
+  SeongnamFC 1 YunYong-sun;
+==> CN (9)
+  DalianYifang 2 YannickCarrasco;JoseFonte;
+  TianjinQuanjian 1 AxelWitsel;
+  BeijingGuoan 1 RenatoAugusto;
+  GuangzhouR&F 1 DuskoTosić;
+  ChangchunYatai 1 OdionIghalo;
+  HebeiFortune 1 JavierMascherano;
+  TianjinTeda 1 JohnObiMikel;
+  EvergrandeKanton 1 KimYoung-gwon;
+==> BR (9)
+  Flamengo 2 MiguelTrauco;PaoloGuerrero;
+  Corinthians 1 Fagner;
+  VascodaGama 1 MartinSilva;
+  GremioPortoAlegre 1 PedroGeromel;
+  SCCorinthians 1 Cassio;
+  Palmeiras 1 MiguelBorja;
+  FCSaoPaulo 1 ChristianCueva;
+  Cruzeiro 1 GiorgianDeArrascaeta;
+==> IR (9)
+  EsteghlalTeheran 4 RoozbehCheshmi;PejmanMontazeri;MajidHosseini;OmidEbrahimi;
+  Persepolis 2 AliBeiranvand;VahidAmiri;
+  ZobAhanIsfahan 1 RashidMazaheri;
+  SaipaAlborz 1 MehdiTorabi;
+  PadidehMeszhed 1 MohammadRezaKhanzadeh;
+==> EG (9)
+  AlAhly 5 SherifEkramy;AhmedFathi;AymanAshraf;SamirSaad;MarwanMohsen;
+  Zamalek 3 MahmoudHamdy;TarekHamed;HamdiNagguez;
+  Al-AhlyKair 1 AliMaaloul;
+==> DK (9)
+  FCKopenhaga 3 WilliamKvist;ViktorFischer;RobinOlsen;
+  FCNordsjaelland 1 RunarAlexRunarsson;
+  Roskilde 1 FrederikSchram;
+  Aalborg 1 EdisonFlores;
+  RandersFC 1 HannesThorHalldorsson;
+  Broendby 1 FrederikRonnow;
+  KVOostende 1 RaminRezaeian;
+==> MC (8)
+  ASMonaco 6 YouriTielemans;RadamelFalcao;DanijelSubasić;DjibrilSidibe;ThomasLemar;KamilGlik;
+  ASMonacoFC 1 KeïtaBalde;
+  Monaco 1 JoaoMoutinho;
+==> CR (7)
+  Saprissa 3 ChristianBolanos;DanielColindres;JohanVenegas;
+  Herediano 2 LeonelMoreira;RandallAzofeifa;
+  LDA 1 PatrickPemberton;
+  LDAlajuelense 1 AbdielArroyo;
+==> AR (7)
+  Independiente 3 MaximilianoMeza;MartinCampana;GastonSilva;
+  BocaJuniors 3 CristianPavon;WilmarBarrios;NahitanNandez;
+  RiverPlate 1 FrancoArmani;
+==> CO (6)
+  DeportivoCali 2 CamiloVargas;AbelAguilar;
+  AguilasDorados 1 JohnnyAcosta;
+  OnceCaldas 1 JoseFernandoCuadrado;
+  Bucaramanga 1 GabrielGómez;
+  AtleticoJunior 1 AlbertoRodriguez;
+==> TN (6)
+  ClubAfricain 2 AhmedKhalil;SabeurKhalifa;
+  EsperanceTunis 1 GhayleneChalali;
+  Esperance 1 AniceBadri;
+  ClubSportifSfax 1 YassineMeriah;
+  EtoileSportiveduSahel 1 RamiBedoui;
+==> PE (6)
+  U.T.Cajamarca 1 JoseCarvallo;
+  AlianzaLima 1 MiguelAraujo;
+  SportsBoys 1 LuisTejada;
+  UniversitarioLima 1 AldoCorzo;
+  DeportivoMunicipal 1 CarlosCaceda;
+  FBCMelgar 1 NilsonLoyola;
+==> GR (5)
+  OlympiakosPireus 2 EhsanHajiSafi;KarimAnsarifard;
+  AEKAteny 1 MasoudShojaei;
+  Atromitos 1 AmrWarda;
+  PAOKSaloniki 1 AleksandarPrijović;
+==> PL (4)
+  LegiaWarszawa 2 MichałPazdan;ArturJędrzejczyk;
+  GórnikZabrze 1 RafałKurzawa;
+  LechiaGdańsk 1 SławomirPeszko;
+==> SE (4)
+  Norrköping 1 IanSmith;
+  OestersundFK 1 SamanGhoddos;
+  HammarbyIF 1 BirkirMerSaevarsson;
+  MalmoeFF 1 ArnorIngviTraustason;
+==> AE (3)
+  Al-Nasr 1 FarjaniSassi;
+  AlAin 1 MarcusBerg;
+  Al-Jazira 1 MbarkBoussoufa;
+==> HR (3)
+  DinamoZagrzeb 2 DominikLivaković;MarioGavranovic;
+  HNKRijeka 1 FilipBradarić;
+==> RS (3)
+  CrvenaZvezdaBelgrad 2 MilanRodić;NemanjaRadonjić;
+  PartizanBelgrad 1 VladimirStojković;
+==> AU (3)
+  MelbourneCity 1 DanielArzani;
+  WesternSydney 1 JoshRisdon;
+  NewcastleJets 1 DimitriPetratos;
+==> UY (2)
+  PenarolMontevideo 2 GuillermoVarela;CristianRodriguez;
+==> BG (2)
+  LewskiSofia 1 HolmarOrnEyjolfsson;
+  ŁudogorecRazgrad 1 JacekGóralski;
+==> CL (2)
+  ClubUniversidaddeChile 1 ArmandoCooper;
+  CDHuachipato 1 GabrielTorres;
+==> IL (2)
+  MaccabiTelAwiw 1 PredragRajković;
+  HapoelBe'erSheva 1 JohnOgu;
+==> NG (2)
+  Enyimba 1 IkechukwuEzenwa;
+  ChippaUnited 1 DanielAkpeyi;
+==> MA (2)
+  IttihadTanger 1 AhmadRedaTagnaouti;
+  RSBerkane 1 AyoubElKaabi;
+==> PA (2)
+  PlazaAmador 1 ValentinPimentel;
+  ChorrilloFC 1 JoseCalderon;
+==> CH (2)
+  Grasshoppers 1 TrentSainsbury;
+  FCLuzern 1 TomiJuric;
+==> AT (2)
+  FCRedBullSalzburg 1 HwangHee-chan;
+  RedBullSalzburg 1 DujeCaleta-Car;
+==> SU (2)
+  Lausanne 1 YeltsinTejeda;
+  FCBasel 1 MichaelLang;
+==> GT (2)
+  CSDMunicipal 2 FelipeBaloy;BlasPerez;
+==> QA (2)
+  Al-Sadd 1 MortezaPouraliganji;
+  Al-Gharafa 1 MehdiTaremi;
+==> SK (1)
+  DACDunajskaStreda 1 EricDavis;
+==> FI (1)
+  KuopionPS 1 AbdallaSaid;
+==> RO (1)
+  DinamoBukareszt 1 JaimePenedo;
+==> NO (1)
+  ValerengaOslo 1 SamuelKariFridjonsson;
+==> GN (1)
+  HoroyaAC 1 KhadimN’Diaye;
+==> PY (1)
+  ClubOlimpia 1 FaridDiaz;
+==> HN (1)
+  CDOlimpia 1 LuisOvalle;
+==> EH (1)
+  AlAhly 1 MohamedEl-Shennawy;
+==> CA (1)
+  VancouverWhitecaps 1 KendallWaston;
+==> UA (1)
+  DynamoKijów 1 JosipPivaric;

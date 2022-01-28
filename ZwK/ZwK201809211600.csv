@@ -1,0 +1,563 @@
+lp;nazwisko;imie;miejscowość;firma;dystans;oplata;plec
+1;Jędrysiak;Marcin;Banino;SEACON ENGINEERING;Doktor;tak;M
+2;Pękalska;Monika;Elbląg;;Magister;tak;K
+3;Wyka;Andrzej;Gdynia;MR.;Doktor;tak;M
+4;Borzęcki;Ryszard;Zielona Wieś;NIEZRZESZONY;Profesor;tak;M
+5;Jędrzejewska;Wioletta;Gdańsk;;Doktor;tak;K
+6;Jędrzejewski;Radosław;Gdańsk;;Doktor;tak;M
+7;Bomba;Michał;Gdańsk;;Magister;tak;M
+8;Kwiatkowski;Sławomir;Gdynia;;Profesor;tak;M
+9;Jaworski;Artur;Toruń;;Magister;tak;M
+10;Werner;Janusz;Gdańsk;WOLTERS KLUWER POLSKA SP....;Magister;tak;M
+11;Matyjek-Macholla;Joanna;Gdańsk;AMSTI;Profesor;tak;K
+12;Borowski;Ryszard;Gdynia;;Magister;tak;M
+13;Podjacki;Andrzej;Tczew;PANI;Magister;tak;M
+14;Lao;Krzysztof;Gdańsk;;Doktor;tak;M
+15;Lao;Lucyna;Gdańsk;;Doktor;tak;K
+16;Maciaszek;Piotr;Gdańsk;;Doktor;tak;M
+17;Szuliński;Kamil;Gdynia;;Profesor;tak;M
+18;Olszewski;Tadeusz;Ostrołęka;-;Magister;tak;M
+19;Pniewski;Jaroslaw;Rumia;;Profesor;tak;M
+20;Zarzycka;Edyta;Warszawa;SHOP-DENT;Doktor;tak;K
+22;Dębniak;Waldemar;Gdynia;;Profesor;tak;M
+23;Filipiak;Beata;Elbląg;JET SYSTEM SP. Z O.O. S.K.;Magister;tak;K
+24;Olszewski;Krzysztof;Olszewo - Borki;;Magister;tak;M
+25;Biernat;Beata;Gdańsk;;Magister;tak;K
+26;Włodarczyk;Paulina;Malbork;;Doktor;tak;K
+27;Hołub;Tomasz;Malbork;;Doktor;tak;M
+28;Tumkiewicz;Jan;Gdynia;TANDEM GDYNIA;Doktor;tak;M
+29;Tumkiewicz;Mirosława;Gdynia;TANDEM GDYNIA;Doktor;tak;K
+30;Zacharczuk;Czesław;Siemirowice;;Doktor;tak;M
+31;Litwin;Piotr;Gdańsk;OCEANIC;Doktor;tak;M
+32;Litwin;Wiktor;Gdańsk;;Doktor;tak;M
+33;Blok;Marta;Pruszcz Gdański;;Profesor;tak;K
+34;Blok;Grzegorz;Pruszcz Gdański;;Profesor;tak;M
+35;Muża;Jarosław;Gdynia;;Profesor;tak;M
+36;Spóz;Ewa;Chełmno ;;Profesor;tak;K
+37;Kujawski;Jacek;Gdańsk;;Profesor;tak;M
+38;Leśniowski;Krzysztof;Elbląg;;Magister;tak;M
+39;Modrzejewski;Adam;Gdynia;ADVA OPTICAL NETWORKING;Profesor;tak;M
+40;Paszkowski;Leszek;Gdańsk;;Doktor;tak;M
+41;Karpowicz;Maciej;Gdynia;;Doktor;tak;M
+42;Lichtoń;Kamila;Marzęcino;USŁUGI AUTO-NAPRAWA W.J. ...;Magister;tak;K
+43;Rulewski;Wiesław;Marzęcino;USŁUGI AUTO-NAPRAWA W.J. ...;Magister;tak;M
+44;Kozłowski;Krzysztof;Gdańsk;USŁUGI AUTO-NAPRAWA W.J. ...;Doktor;tak;M
+45;Gizela;Michał;Kartuzy;;Profesor;tak;M
+46;Dębski;Bartosz;Gdańsk;;Magister;tak;M
+47;Antochowski;Jan;Wałdowo ;AMATOR;Magister;tak;M
+48;Krzych;Michał;Gdańsk;;Doktor;tak;M
+49;Nikodem;Adam;Gdańsk;;Magister;tak;M
+50;Wesolowski;Dominik;Warszawa;;Magister;tak;M
+51;Fulara;Wojciech;Gdansk;;Magister;tak;M
+52;Mikołajczyk;Przemysław;Malbork;;Doktor;tak;M
+53;Mazany;Marek;Bydgoszcz;.;Profesor;tak;M
+54;Borek;Paweł;Gdańsk;;Profesor;tak;M
+55;Gajda;Szymon;Gdańsk;;Profesor;tak;M
+56;Glejzer;Krzysztof;Gdansk;;Profesor;tak;M
+57;Florek;Marcin;Gdańsk;;Magister;tak;M
+58;Brandt;Maciej;Elbląg;ROWEL;Magister;tak;M
+59;Dzierzgowski;Piotr;Chotomów;SHOP-DENT;Doktor;tak;M
+60;Jasionek;Karolina;Warszawa;SHOP-DENT;Magister;tak;K
+61;Blicharski;Andrzej;Warszawa;;Doktor;tak;M
+62;Blicharski;Michał;Warszawa;;Doktor;tak;M
+63;Blicharska;Irena;Chotomów;;Doktor;tak;K
+64;Blicharska;Monika;Chotomów;;Doktor;tak;K
+65;Samorajczyk;Katarzyna;Pruszcz Gdański;;Magister;tak;K
+66;Banaszewska;Barbara;  Żukowo;;Doktor;tak;K
+67;Frelichowska;Joanna;Gdynia;;Doktor;tak;K
+68;Golańska;Mariola;Gdańsk;;Magister;tak;K
+69;Antochowski;Jan;Wałdowo;JWKS AMATOR;Magister;tak;M
+70;Pijor;Ryszard;Rumia;ZOELLER TECH;Doktor;tak;M
+71;Trusewicz;Piotr;Pruszcz Gd;;Magister;tak;M
+72;Rzewuski;Lukasz;Pruszcz Gd;;Magister;tak;M
+73;Krawczyński;Andrzej;Warszawa;;Magister;tak;M
+74;Sawicka;Katarzyna;Gdańsk;;Profesor;tak;K
+75;Kosinski;Adam;Gdynia;;Magister;tak;M
+76;Dobrolinski;Daniel;Gdynia;POLSKA PÓŁNOCNA;Profesor;tak;M
+77;Patok;Gerard;Wejherowo;CCC POLKOWICE;Magister;tak;M
+78;Rulewski;Grzegorz;Nowy Dwór Gdański;USŁUGI AUTO-NAPRAWA W.J. ...;Magister;tak;M
+79;Sobieraj;Jarosław;Gdynia;MAJ;Magister;tak;M
+80;Furtak;Adam;Gdańsk ;;Profesor;tak;M
+81;Świątek;Kuba;Gdańsk;VISTULA BASTARDS ;Profesor;tak;K
+82;Cierocki;Ryszard;Strzepcz;;Profesor;tak;M
+83;Cierocka;Zofia;Strzepcz;;Profesor;tak;K
+84;Najdowski;Adam;Iława;MUNDUR NA ROWERZE;Profesor;tak;M
+85;Draczyński;Sławek;Gdańsk;VISTULA BASTARDS;Profesor;tak;M
+86;Matusiak;Rafal;Gdansk;SERWISROWEROWYGDANSK.PL;Profesor;tak;M
+87;Ważny;Maciej;Gdansk;SERWISROWEROWYGDANSK.PL;Profesor;tak;M
+88;Rostankowska;Bernadeta;Czersk;;Doktor;tak;K
+89;Chwasta;Paweł;Gdynia;;Doktor;tak;M
+90;Pudło;Marcin;Gdańsk;;Profesor;tak;M
+91;Bilska;Magda;Gdańsk;;Profesor;tak;K
+92;Miszewski;Jan;Gdańsk;JANSOLO;Magister;tak;M
+93;Markowski;Alfred;Mrągowo;;Magister;tak;M
+94;Piętkowska;Agnieszka;Gdynia;O CO BIEGA?;Magister;tak;K
+95;Szarejko;Magdalena;Sopot;O CO BIEGA?;Magister;tak;K
+96;Głąb;Dariusz;;;Magister;tak;M
+97;Kawiak;Janusz;Cedry Wielkie;;Doktor;tak;M
+98;Klimczak;Agnieszka;Gdansk;;Magister;tak;K
+99;Lassak;Bartosz;Strzelce Górne;;Profesor;tak;M
+100;Kruczkowska;-;Strzelce Górne;;Profesor;tak;K
+101;Ołdziejewski;Leszek;Nowy Staw;;Magister;tak;M
+102;Ołdziejewski;Marcin;Nowy Staw;;Doktor;tak;M
+103;Ziemińska;Magdalena;Elbląg;ETT;Doktor;tak;K
+104;Gałdyn;Michał;Elbląg;;Doktor;tak;M
+105;Koniarska;Beata;Gdynia;;Magister;tak;K
+106;Łonski;Robert;Gdańsk;AKORD;Doktor;tak;M
+107;Suszek;Roman;Sopot;;Doktor;tak;M
+108;Lewandowski;Roman;Gdańsk;FEDERAL MOGUL;Doktor;tak;M
+109;Płaskonos;Marek;Gdańsk;;Doktor;tak;M
+110;Schild;Kamil;Gdańsk;;Doktor;tak;M
+111;Schild;Agnieszka;Gdańsk;;Doktor;tak;K
+112;Kobyłecki;Karol;Radom;TEKOM TEAM;Doktor;tak;M
+113;Krakowski;Paweł;Radom;TEKOM TEAM;Doktor;tak;M
+114;Piorun;Michał;Radom;TEKOM TEAM;Doktor;tak;M
+115;Jelonkiewicz;Tomasz;Radom;TEKOM TEAM;Doktor;tak;M
+116;Młyński;Adrian;Gdańsk;;Doktor;tak;M
+117;Siekierzyński;Rafał;Skarszewy;SKARSZEWY CYCLE TEAM;Doktor;tak;M
+118;Góralski;Waldemar;Pruszcz Gdański;;Profesor;tak;M
+119;Zdończyk;Mirosław;Gdańsk;;Doktor;tak;M
+120;Zdończyk;Jakub;Gdańsk;;Doktor;tak;M
+121;Senderski;Rafał;Rumia;;Magister;tak;M
+122;Cysewski;Artur;Gdańsk;;Doktor;tak;M
+123;Klimowska;Anetta;Elbląg;ETT;Doktor;tak;K
+124;Klimowski;Przemysław;Elbląg;ETT;Doktor;tak;M
+125;Melzacka;Anna;Gdańsk;1983;Doktor;tak;K
+126;Leoniak;Ewa;Gdynia;DZIERZGOŃ TEAM;Doktor;tak;K
+127;Leoniak;Renata;Dzierzgoń;DZIERZGOŃ TEAM;Doktor;tak;K
+128;Dasiukiewicz;Leszek;Gdańsk;;Profesor;tak;M
+129;Sobczyński;Radosław;Rotmanka;ROTMA;Magister;tak;M
+130;Kozyra;Piotr;Gdynia;ENZO KOŁOMAŃSKI ROWERY;Magister;tak;M
+131;Bojko;Michał;Gdańsk;;Magister;tak;M
+132;Muszyńska;Anna;Reda;;Magister;tak;K
+133;Stubiński;Piotr;Gdynia;Deltamarin;Profesor;tak;M
+134;Kulka;Jan;Pogórze;DELTAMARIN;Profesor;tak;M
+135;Janecki;Henryk;Gdańsk;;Doktor;tak;M
+136;Trojanowski;Karol;Starogard Gdański;GK STG;Doktor;tak;M
+137;Szank;Piotr;Gdynia;;Magister;tak;M
+138;Stasiewski;Paweł;Elbląg;;Doktor;tak;M
+139;Stasiewski;Kamil;Elbląg;;Doktor;tak;M
+140;Wielicka;Ewa;Gdansk;SWRS ;Profesor;tak;K
+141;Grześ;Tomasz;Gdynia;DELTAMARIN;Profesor;tak;M
+142;Wojtach;Aleksandra;Gdynia;DELTAMARIN;Profesor;tak;K
+143;Bednarczyk;Marcin;Gdańsk;EPS POLAND;Doktor;tak;M
+144;Żelaskowska;Katarzyna;Gdańsk ;;Magister;tak;M
+145;Orłowski;Michał;Rumia;;Profesor;tak;M
+146;Parys;Andrzej;Elbląg;ELAKTYWNI;Profesor;tak;M
+147;Beszterda;Krzysztof;Gdańsk;;Magister;tak;M
+148;Beszterda;Władysław;Gdańsk;;Magister;tak;M
+149;Dąbrowski;Adam;Szlachta;;Doktor;tak;M
+150;Graban;Wiesława;Szlachta;;Doktor;tak;K
+151;Pleczyński;Zbigniew;Świerkocin;;Magister;tak;M
+152;Wenta;Gabriel;Łebunia;ŁEBUNIA;Profesor;tak;M
+153;Krzemiński;Piotr;Gdańsk;AKADEMICKI KLUB MORSKI;Doktor;tak;M
+154;Pączek;Stanisław;Rumia;;Magister;tak;M
+155;Gacek;Katarzyna;Skarszewy;SKARSZEWY CYCLE TEAM;Doktor;tak;K
+156;Gmiterek;Adam;Łężyce;;Profesor;tak;M
+157;Janusz-Wejer;Monika;Skarszewy;SKARSZEWY CYCLE TEAM ;Doktor;tak;K
+158;Hendrich;Mariola;Skarszewy;SKARSZEWY CYCLE TEAM;Doktor;tak;K
+159;Czaszyński;Adrian;Gdynia;WSZĘDOBYLSCY ;Magister;tak;M
+160;Walkusz;Piotr;Sierakowice;;Doktor;tak;M
+161;Olszewski;Karol;Gdynia;;Magister;tak;M
+162;Lewańczyk;Marek;Grzybno;MARKBUD;Doktor;tak;M
+163;Dawidowska;Barbara;Ostrzyce;;Magister;tak;K
+164;Dawidowski;Przemysław;Ostrzyce;;Magister;tak;M
+165;Jakubowski;Adam;Gdansk;LICEUM PLASTYCZNE W GDAŃSKU;Magister;tak;M
+166;Jakubowska;Joanna;Gdańsk;LICEUM PLASTYCZNE W GDAŃSKU;Magister;tak;K
+167;Wejher-Gałązka;Monika;Malbork;;Magister;tak;K
+168;Gałązka;Magdalena;Malbork;;Magister;tak;K
+169;Kukliński;Jarosław;Gdynia;ROOTO SYSTEM;Magister;tak;M
+170;Wejher;Jan;Malbork;;Magister;tak;M
+171;Stawiszyński;Marek;Gdynia;ROOTO SYSTEM;Magister;tak;M
+172;Gałązka;Krzysztof;Malbork;;Profesor;tak;M
+173;Kanigowski;Grzegorz;Gdańsk;;Profesor;tak;M
+174;Ciesielski;Michał;Gdańsk;;Profesor;tak;M
+175;Rojek;Agnieszka;Gdańsk;;Magister;tak;K
+176;Janczewski;Grzegorz;Warszawa;;Doktor;tak;M
+177;Kalinowski;Maciej;Gdynia;;Magister;tak;M
+178;Siedlecka;Monika;Kościerzyna;;Doktor;tak;K
+179;Hebel;Jakub;Tczew;;Doktor;tak;M
+180;Kołecki;Robert;Tuchom;;Profesor;tak;M
+181;Doloszynski;Piotr;Warszawa;;Profesor;tak;M
+182;Manista;Paweł;Warszawa;;Profesor;tak;M
+183;Pomirski;Janusz;Rumia;;Profesor;tak;M
+184;Pomirska;Monika;Rumia;;Magister;tak;K
+185;Orłowska;Agata;Rumia;;Magister;tak;K
+186;Filiks-Januszko;Adriana;Krynica Morska;;Doktor;tak;K
+187;Adamowski;Grzegorz;Gdańsk;;Doktor;tak;M
+188;Szymczak;Paweł;Reda;;Magister;tak;M
+189;Hirsz;Jarosław;Gdańsk;;Magister;tak;M
+190;Hirsz-Strycel;Beata;Gdańsk;;Magister;tak;K
+191;Hirsz;Dawid;Gdańsk;;Magister;tak;M
+192;Wawrocka;Jadwiga;Gdańsk;;Magister;tak;K
+193;Sekida;Mateusz;Gościcino;;Profesor;tak;M
+194;Kozak;Karol;Elbląg;ETT ;Magister;tak;M
+195;Wawrzyński;Tomasz;Gdynia;PORT GDYNIA SPORT TEAM;Profesor;tak;M
+196;Pleczyński;Marcin;Gdynia;CZARNY SPECJAL TEAM;Profesor;tak;M
+197;Piotrowski;Andrzej;Pruszcz Gdański;TATTOO & BIKE;Profesor;tak;M
+198;Pączek;Wojciech;Gdańsk;;Profesor;tak;M
+199;Kupczyński;Bartłomiej;Barlinek;BARTEK TEAM;Doktor;tak;M
+200;Kupczyński;Marek;Barlinek;BARTEK TEAM;Doktor;tak;M
+201;Maltcev;Sergei;Elblag;ETT;Doktor;tak;M
+202;Piwnicki;Marek;Gdańsk;SPARTEZ;Profesor;tak;M
+203;Brazulewicz;Krystian;Gdańsk;SPARTEZ;Magister;tak;M
+204;Brazulewicz;Katarzyna;Gdańsk;;Magister;tak;K
+205;Zahri;Kamil;Gdynia;;Profesor;tak;M
+206;Górska;Joanna;Gdańsk;SWRS;Profesor;tak;K
+207;Urbański;Marek;Gdańsk;;Profesor;tak;M
+208;Bolewicki;Piotr;Gdańsk;;Doktor;tak;M
+209;Klajnszmyt;Roman;Nowa Kiszewa;;Doktor;tak;M
+210;Susmarski;Przemysław;Gdynia`;;Profesor;tak;M
+211;Przechlewski;Tomasz;Sopot;;Profesor;tak;M
+212;Piątkowska;Agnieszka;Gdańsk;;Magister;tak;K
+213;Żyłka;Łukasz;Gdańsk;;Magister;tak;M
+214;Dzido;Karol;Gdynia;3TEAM;Profesor;tak;M
+215;Turek;Ignacy;Gdynia;;Magister;tak;M
+216;Piontkowski;Marek;Koszalin;INVENA S.A.;Magister;tak;M
+217;Łukawski;Artur;Koszalin;INVENA S.A.;Magister;tak;M
+218;Keller;Monika;Koszalin;INVENA S.A.;Magister;tak;M
+219;Walendzik;Magdalena;Koszalin;INVENA S.A.;Magister;tak;K
+220;Wiśniewski;Bartłomiej;Gdynia;;Doktor;tak;M
+221;Szir;Marek;Gdynia;;Doktor;tak;M
+222;Morawiecka;Magdalena;Gdańsk;SWRS LIONESSES OF THE NORTH ;Profesor;tak;K
+223;Wejer;Mateusz;Skarszewy;SKARSZEWY CYCLE TEAM ;Profesor;tak;M
+224;Bochomulski;Mieczysław;Gdynia;;Magister;tak;M
+225;Szar;Tadeusz;Gdańsk;;Profesor;tak;M
+226;Gortat;Bogumił;Dobrzęcino;1979;Profesor;tak;M
+227;Stefaniak;Leszek;Gdańsk ;DREAM TRI TEAM;Magister;tak;M
+228;Kulczynski;Zbigniew;Rokitnica;;Magister;tak;M
+229;Wanat;Kazimierz;Gdynia;ŻUCHLIŃSKI ROWERY;Profesor;tak;M
+230;Kwidzińska;(Faffaraffa);Gdynia;;Doktor;tak;K
+231;Wróbel;Grażyna;Pępowo;;Magister;tak;K
+232;Lubojemski;Bartosz;Bydgoszcz;;Doktor;tak;M
+233;Wróbel;Antoni;Pępowo;;Magister;tak;M
+234;Kuchta;Dariusz;Kartuzy;PYJO;Magister;tak;M
+235;Pawełczak;Maciej;Bydgoszcz;;Doktor;tak;M
+236;Raczyński;Michał;Bydgoszcz;;Doktor;tak;M
+237;Fizhuk;Rostyslav;Gdansk;NORDEA;Profesor;tak;M
+238;Walkowski;Karol;Prabuty;;Doktor;tak;M
+239;Galikowski;Jacek;Gdynia;;Doktor;tak;M
+240;Rogowski;Leszek;Gdańsk;OPRYCHY TEAM;Magister;tak;M
+241;Waszkiewicz;Agnieszka;Chełmno;;Profesor;tak;K
+242;Hachaj;Paweł;Chełmno;;Profesor;tak;M
+243;Oleksiienko;Oleksii;Gdansk;EPAM SYSTEMS;Doktor;tak;M
+244;Shyshova;Olga;Gdansk;NORDEA;Doktor;tak;K
+245;Mowinski;Filip;Gdansk;DREAMTRITEAM;Profesor;tak;M
+246;Grabinska;Agnieszka;Gdynia;;Doktor;tak;K
+247;Ziętkowski;Michał;Łódź;;Magister;tak;M
+248;Klocek;Bartosz;Warszawa;VISTULA BASTARDS;Profesor;tak;M
+249;Krasodomski;Maciej;Gdynia;;Doktor;tak;M
+250;Ryszkowski;Lesław;Gdańsk;;Magister;tak;M
+251;Drobniewski;Marcin;Gdynia;;Profesor;tak;M
+252;Jóźwik;Paweł;Nowy Dwór Gdański;;Magister;tak;M
+253;Pęczak-Werner;Dagmara;Gdańsk;;Magister;tak;K
+254;Gacek;Jarosław;Skarszewy;SKARSZEWY CYCLE TEAM;Profesor;tak;M
+255;Popiel;Adam;Kobylnica;;Doktor;tak;M
+256;Aranowska;Marta;Słupsk;;Doktor;tak;K
+1;Wrońska;Iwona;Gdańsk;Lufthansa Systems Poland Sp. z o.o.;Magister;;K
+2;Kowalczyk;Malgorzata;Gdansk;Lufthansa Systems Poland Sp. z o.o.;Doktor;;K
+3;Kassolik;Łucja;Gdańsk;Lufthansa Systems Poland Sp. z o.o.;Doktor;;K
+4;Konopka;Marek;Gdańsk;Lufthansa Systems Poland Sp. z o.o.;Doktor;;M
+5;Moniuszko;Hubert;Gdańsk;Lufthansa Systems Poland Sp. z o.o.;Doktor;;M
+6;Klemarczyk;Maciej;Gdańsk;Lufthansa Systems Poland Sp. z o.o.;Magister;;M
+7;Orzechowska;Magdalena;Gdańsk;Lufthansa Systems Poland Sp. z o.o.;Magister;;K
+8;Konupek;Grzegorz;Gdańsk;Lufthansa Systems Poland Sp. z o.o.;Magister;;M
+1;Michalak;Jarosław;Gdańsk;LPP Team;Doktor;tak;M
+2;Łunkiewicz;Michał;Gdańsk;LPP Team;Magister;tak;M
+3;Gawińkowski;Jakub;Pruszcz Gdański;LPP Team;Doktor;tak;M
+4;Mikołajczak;Michał;Gdańsk;LPP Team;Doktor;tak;M
+5;Sidorowicz;Magdalena;Gdańsk;LPP Team;Doktor;tak;K
+6;Baranowski;Marcin;Gdańsk;LPP Team;Profesor;tak;M
+7;Gruba;Piotr;Gdańsk;LPP Team;Profesor;tak;M
+8;Kasperski;Marcin;Banino;LPP Team;Doktor;tak;M
+9;Bafia;Monika;Ostaszewo;LPP Team;Magister;tak;K
+10;Grochocka;Jowanka;Pruszcz Gdański;LPP Team;Magister;tak;K
+11;Blank;Karol;Gdańsk;LPP Team;Doktor;tak;M
+12;Wozowicz;Maciej;Gdańsk;LPP Team;Magister;tak;M
+13;Maniewski;Marcin;Gdańsk;LPP Team;Magister;tak;M
+14;Kowal;Mariusz;Kowale;LPP Team;Profesor;tak;M
+15;Wiśniewski;Tomasz;Gdynia;LPP Team;Profesor;tak;M
+16;Holtz;Krzysztof;Gdańsk;LPP Team;Magister;tak;M
+17;Kryńska;Ewa;Gdańsk;LPP Team;Magister;tak;K
+1;Komorowska;Anita;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K
+2;Zalewski;Robert;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+3;Zalewski;Marek;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+4;Zalewska;Agata;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K
+5;Ronkiewicz;Anna;Gdynia;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;M
+6;Kawczyński;Grzegorz;Gdynia;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;M
+7;Kawczynska;Izabela;Gdynia;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;K
+8;Ziemann;Ewa;Gdansk;ATENA Usługi Informatyczne i Finansowe;Profesor;tak;K
+9;Starczewski;Bartosz;Gdansk;ATENA Usługi Informatyczne i Finansowe;Profesor;tak;M
+10;Chmura;Marek;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+11;Chmura;Żaneta;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K
+12;Mikicki;Krzysztof;Gdynia;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;M
+13;Branicka;Aleksandra;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K
+14;Skruch;Sławomir;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+15;Zdrojewski;Adrian;Sopot;ATENA Usługi Informatyczne i Finansowe;Profesor;tak;M
+16;Udodau;Pavel;Gdynia;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;M
+17;Kędzierski;Paweł;Sopot;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+18;Kopcych;Anna;Borkowo;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K
+19;Kopcych;Piotr;Borkowo;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+20;Okroy;Maciej;Gościcino;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+21;Kaliszewska;Emilia;Borkowo;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K
+22;Czyżykowski;Michał;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Profesor;tak;M
+23;Rzeppa;Aleksandra;Luzino;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K
+24;Sajnaj;Bartek;Gdynia;ATENA Usługi Informatyczne i Finansowe;Profesor;tak;M
+25;Wnuk;Radosław;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+26;Wnuk;Elżbieta;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K
+27;Tur;Anna;Żukowo;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K
+28;Tur;Ireneusz;Żukowo;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+29;Miziołek;Ewa;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;K
+30;Walczyk;Tomasz;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;M
+31;Storma;Andrzej;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;M
+32;Przychodzeń;Marcin;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Profesor;tak;M
+33;Przychodzeń;Małgorzata;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Profesor;tak;K
+34;Sadłowski;Andrzej;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;M
+35;Wojtasik;Marcin;Sopot;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+36;Wojtasik;Hubert;Sopot;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+37;Wojtasik;Emilia;Sopot;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K
+38;Goś;Mariusz;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+39;Goś;Zuzanna;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K
+40;Goś;Mikołaj;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+41;Skuczyński;Robert;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+42;Skuczyński;Maciej;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+43;Kordyla;Damian;Sopot;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+44;Kordyla;Dorota;Sopot;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K
+45;Dziewiałtowski;-;Olsztyn;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+46;Kurłowicz;Jakub;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+47;Antonowicz;Mateusz;Toruń;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+48;Przygócka;Paulina;Toruń;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K
+49;Młynarski;Mariusz;Sosnowiec;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+50;Krzyszkowski;Maciej;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+51;Krzyszkowska;Ewa;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K
+52;Krzyszkowski;Michał;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+53;Wróblewski;Krzysztof;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+54;Rutkowski;Marcin;Gdynia;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;M
+55;Sadowski;Daniel;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;M
+56;Pankowski;Michał;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+57;Pankowski;Zbyszko;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+58;Pankowski;Rafał;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+59;Marjakova;Maria;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K
+60;Dmochowski;Kamil;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+61;Olszewska;Monika;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K
+62;Lachowicz;Mateusz;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;M
+63;Miernicki;Wiesław;Braniewo;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;M
+64;Sztormowski;Rafał;Sopot;ATENA Usługi Informatyczne i Finansowe;Profesor;tak;M
+65;Wypasek;Krystyna;Sopot;ATENA Usługi Informatyczne i Finansowe;Profesor;tak;K
+66;Załuska;Katarzyna;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K
+67;Załuski;Karol;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+68;Załuski;Jakub;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+69;Krynicki;Artur;Sopot;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+70;Krynicki;Wojciech;Sopot;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+71;Urbanowicz;Bartłomiej;Nowy Dwór Gdański;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;M
+72;Urbanowicz;Anna;Nowy Dwór Gdański;ATENA Usługi Informatyczne i Finansowe;Doktor;tak;K
+73;Naumik;Victor;Gdynia;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+74;Grajewski;Wojciech;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+75;Trzebiński;Piotr;Juszkowo;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+76;Labuda;Dawid;Gdańsk;ATENA Usługi Informatyczne i Finansowe;Magister;tak;M
+77;Trzebińska;Dominika;Juszkowo;ATENA Usługi Informatyczne i Finansowe;Magister;tak;K
+78;Sztokinger;Jarosław;Gdynia;ATENA Usługi Informatyczne i Finansowe;Profesor;;M
+79;Ronkiewicz;Anna;Sopot;ATENA Usługi Informatyczne i Finansowe;Magister;;K
+80;Jasiński;Robert;Sopot;ATENA Usługi Informatyczne i Finansowe;Magister;;M
+81;Jasiński;Antoni;Sopot;ATENA Usługi Informatyczne i Finansowe;Magister;;M
+1;Gross;Jacek;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M
+2;Bullmann;Dariusz;Nowy Dwór Gdański;Żuławiacy Stolmach;Profesor;tak;M
+3;Pielecki;Krzysztof;Nowy Dwór Gdański;Żuławiacy Stolmach;Profesor;tak;M
+4;Gross;Michał;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;M
+5;Gross;Aneta;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M
+6;Gross;Rafał;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;M
+7;Sienkiewicz;Zygmunt;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M
+8;Sztabińska;Anna;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;K
+9;Sztabiński;Piotr;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;M
+10;Kopal;Kazimierz;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;M
+11;Kopal;Agnieszka;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;K
+12;Dolińska;Monika;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;K
+13;Czub;Anita;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;M
+14;Beksa;Iwona;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;K
+15;Zylka;Monika;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;K
+16;Zylka;Arkadiusz;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M
+17;Sosnowski;Piotr;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M
+18;Sosnowska;Katarzyna;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;K
+19;Dolecki;Tomasz;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;M
+20;Modrzejewski;Patryk;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;M
+21;Jegier;Kinga;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;K
+22;Jegier;Adam;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M
+23;Świetlińska;Marta;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;K
+24;Jegier;Kinga;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;K
+25;Jegier;Adam;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M
+26;Łukasiuk;Piotr;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M
+27;Kordylasiński;Edward;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M
+28;Bukowski;Michał;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M
+29;Torczyłło;Włodzimierz;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M
+30;Krawczyk;Wojciech;Nowy Dwór Gdański;Żuławiacy Stolmach;Doktor;tak;M
+31;Łoś;Marcin;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M
+32;Piasek;Marcin;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M
+33;Mroczyński;Waldemar;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M
+34;Łukasiuk;Jan;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M
+35;Łukasiuk;Piotr;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M
+36;Kopal;Elżbieta;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M
+37;Robaczewski;Mariusz;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;;M
+38;Wycichowski;Wojciech;Ostaszewo;Żuławiacy Stolmach;Profesor;tak;M
+39;Maciejewski;Łukasz;Pruszcz Gdański;Żuławiacy Stolmach;Profesor;tak;M
+40;Chmielewski;Mariusz;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M
+41;Gierszewski;Szymon;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M
+42;Blaszczyk;Grzegorz;Mikoszewo;Żuławiacy Stolmach;Doktor;tak;M
+43;Iwanczuk;Tomasz;Jantar Lesniczowka;Żuławiacy Stolmach;Doktor;tak;M
+44;Mendala;Dorota;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;K
+45;Beksa;Iwona;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;K
+46;Iwaniak;Roman;Jantar;Żuławiacy Stolmach;Doktor;tak;M
+47;Mendala;Jacek;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M
+48;Kraska;Marek;Nowy Dwór Gd.;Żuławiacy Stolmach;Doktor;tak;M
+49;Kraska;Tymoteusz;Nowy Dwór Gd.;Żuławiacy Stolmach;Doktor;tak;M
+50;Sikora;Dariusz;Nowy Dwór Gdański;Żuławiacy Stolmach;Profesor;tak;M
+51;Zamorski;Jacek;Nowy Dwór Gdański;Żuławiacy Stolmach;Magister;tak;M
+52;Pielecki;Zbigniew;Nowy Dwór Gdański;Żuławiacy Stolmach;Profesor;tak;M
+53;Ptasznik;Marcin;Nowy Dwor Gdanski;Żuławiacy Stolmach;Profesor;tak;M
+54;Żwirek;Sebastian;Nowy Dwór Gdański;Żuławiacy Stolmach;Profesor;tak;M
+55;Zwiewka;Marek;Sztutowo;Żuławiacy Stolmach;Doktor;tak;M
+1;Orzech;Karolina;Gdańsk;EUROPROJEKT GDAŃSK S.A.;Doktor;;K
+2;Kulwiński;Przemysław;Gdańsk;EUROPROJEKT GDAŃSK S.A.;Doktor;;M
+3;Krzemieniewska;Aleksandra;Gdańsk;EUROPROJEKT GDAŃSK S.A.;Magister;;M
+4;Kowalczyk;Andrzej;Gdańsk;EUROPROJEKT GDAŃSK S.A.;Doktor;;M
+5;Kosecki;Paweł;Gdańsk;EUROPROJEKT GDAŃSK S.A.;Doktor;;M
+6;Nowaczyk;Wojciech;Gdańsk;EUROPROJEKT GDAŃSK S.A.;Doktor;;M
+1;Cirzon;Michał;Gdańsk;ASE GDAŃSK;Doktor;;M
+2;Orlikowski;Grzegorz;Starogard Gdański;ASE GDAŃSK;Doktor;tak;M
+3;Karpiczenko;Mateusz;Gdańsk;ASE GDAŃSK;Doktor;tak;M
+4;Piwowarska;Karolina;Gdynia;ASE GDAŃSK;Magister;tak;K
+5;Fabijańczyk;Katarzyna;Gdańsk;ASE GDAŃSK;Magister;tak;K
+6;Fabijańczyk;Radosław;Gdańsk;ASE GDAŃSK;Magister;tak;M
+7;Drewa;Przemysław;Borkowo;ASE GDAŃSK;Profesor;;M
+8;Czesnowski;Grzegorz;Gdańsk;ASE GDAŃSK;Magister;tak;M
+9;Czesnowski;Kamil;Gdańsk;ASE GDAŃSK;Magister;tak;M
+10;Kuhn;Piotr;Gdańsk;ASE GDAŃSK;Doktor;tak;M
+11;Słomiński;Marek;Warszawa;ASE GDAŃSK;Magister;tak;M
+1;Dolny;Paweł;Gdańsk;JIT Solutions;Profesor;;M
+2;Drzewiecki;Łukasz;Gdańsk;JIT Solutions;Profesor;;M
+3;Ułanowicz;Marcin;Gdańsk;JIT Solutions;Magister;;M
+4;Kępka;Karol;Mosty;JIT Solutions;Magister;;M
+5;Piekarski;Tomasz;Gdańsk;JIT Solutions;Doktor;;M
+6;Domżalski;Łukasz;Gdańsk;JIT Solutions;Doktor;;M
+7;Gwara;Grzegorz;Gdynia;JIT Solutions;Magister;;M
+8;Gwara;Małgorzata;Gdynia;JIT Solutions;Magister;;K
+9;Gorczewski;Piotr;Gdańsk;JIT Solutions;Magister;;M
+10;Nowicki;Piotr;Gdańsk;JIT Solutions;Magister;;M
+1;Giemza;Paweł;Gdańsk;Infoprojekt Sp z o.o.;Magister;;M
+2;Niedźwiadek;Adam;Gdańsk;Infoprojekt Sp z o.o.;Profesor;;M
+3;Kalamon;Marta;Gdańsk;Infoprojekt Sp z o.o.;Magister;;K
+1;Welz;Dominika;Gdańsk;HODOWCA Sp. z o.o.;Magister;tak;K
+2;Laskowski;Roman;Czapielsk;HODOWCA Sp. z o.o.;Magister;tak;M
+3;Lewańczyk;Przemysław;Gdańsk;HODOWCA Sp. z o.o.;Magister;tak;M
+4;Kraśniewski;Marcin;Straszyn;HODOWCA Sp. z o.o.;Magister;tak;M
+5;Krajewski;Marcin;Gdańsk;HODOWCA Sp. z o.o.;Doktor;tak;M
+6;Ulewicz;Wojciech;Chwaszczyno;HODOWCA Sp. z o.o.;Doktor;tak;M
+7;Rudaś;Mirosław;Gdynia;HODOWCA Sp. z o.o.;Doktor;tak;M
+8;Żardecka;Agnieszka;Banino;HODOWCA Sp. z o.o.;Magister;tak;M
+9;Ślosarski;Dariusz;Banino;HODOWCA Sp. z o.o.;Magister;tak;M
+10;Kowal;Piotr;Banino;HODOWCA Sp. z o.o.;Magister;tak;M
+11;Hałusek;Grzegorz;Czapielsk;HODOWCA Sp. z o.o.;Magister;tak;M
+1;Uściński;Jarosław;Rumia;ZOELLER TECH;Doktor;tak;M
+2;Rigga;Tomasz;Puck;ZOELLER TECH;Doktor;tak;M
+3;Czapp;Łukasz;Puck;ZOELLER TECH;Doktor;tak;M
+4;Drafz;Łukasz;Leśniewo;ZOELLER TECH;Doktor;tak;M
+5;Kwidzinski;Karol;Leśniewo;ZOELLER TECH;Doktor;tak;M
+6;Kołodzik;Sławomir;Wejherowo;ZOELLER TECH;Doktor;tak;M
+7;Konkel;Robert;Puck;ZOELLER TECH;Doktor;tak;M
+8;Rogocki;Piotr;Połczyno;ZOELLER TECH;Doktor;tak;M
+9;Lasek;Jarosław;Połczyno;ZOELLER TECH;Doktor;tak;M
+10;Burda;Łukasz;Reda;ZOELLER TECH;Doktor;tak;M
+11;Bojka;Dawid;Puck;ZOELLER TECH;Doktor;tak;M
+12;Kubiak;Maciej;Reda;ZOELLER TECH;Magister;tak;M
+13;Palachowski;Mirosław;Puck;ZOELLER TECH;Doktor;tak;M
+14;Czajkowski;Mariusz;Rumia;ZOELLER TECH;Doktor;tak;M
+15;Jeka;Bartłomiej;Werblinia;ZOELLER TECH;Doktor;tak;M
+16;Korthals;Walenty;Puck;ZOELLER TECH;Doktor;tak;M
+17;Korthals;Roman;Żelistrzewo;ZOELLER TECH;Doktor;tak;M
+1;Rulewski;Wiesław;Marzęcino;USŁUGI AUTO-NAPRAWA W.J.RULEWSKI;Magister;;M
+2;Lichtoń;Kamila;Marzęcino;USŁUGI AUTO-NAPRAWA W.J.RULEWSKI;Magister;;K
+3;Rulewska;Barbara;Marzęcino;USŁUGI AUTO-NAPRAWA W.J.RULEWSKI;Magister;tak;K
+4;Samorajczyk;Katarzyna;Pruszcz Gdański;USŁUGI AUTO-NAPRAWA W.J.RULEWSKI;Magister;;K
+5;Rulewski;Grzegorz;Nowy Dwór Gdański;USŁUGI AUTO-NAPRAWA W.J.RULEWSKI;Magister;;M
+6;Kozłowski;Krzysztof;Gdańsk ;USŁUGI AUTO-NAPRAWA W.J.RULEWSKI;Doktor;;M
+1;Tomaszewski;Michał;Gdańsk;SOLWIT SA;Profesor;tak;M
+1;Sakłak;Wojciech;Banino;AWFiS;Doktor;;M
+1;Dudarowski;Mariusz;Gdansk;Rockwell Automation Sp. z o.o.;Doktor;;M
+2;Rybołowicz;Anna;Gdynia;Rockwell Automation Sp. z o.o.;Magister;;K
+3;Serowik;Tomasz;Gdańsk;Rockwell Automation Sp. z o.o.;Magister;;M
+1;Marko;Andrzej;Gdańsk;DGT Sp. z o.o.;Magister;tak;M
+2;Abramczuk;Robert;Gdańsk;DGT Sp. z o.o.;Magister;tak;M
+3;Grajkowski;Marcin;Elbląg;DGT Sp. z o.o.;Magister;tak;M
+4;Aranowski;Piotr;Gdańsk;DGT Sp. z o.o.;Magister;tak;M
+5;Leśniewski;Rafał;Gdańsk;DGT Sp. z o.o.;Magister;tak;M
+6;Leśniewska;Karolina;Gdańsk;DGT Sp. z o.o.;Magister;tak;K
+7;Mrall;Jarosław;Gdańsk;DGT Sp. z o.o.;Doktor;tak;M
+8;Przybylak;Bartosz;Gdansk;DGT Sp. z o.o.;Doktor;tak;M
+9;Szulc;Paweł;Gdańsk;DGT Sp. z o.o.;Doktor;tak;M
+10;Wysocki;Piotr;Gdynia;DGT Sp. z o.o.;Magister;tak;M
+11;Skrzycka;Mariola;Gdańsk;DGT Sp. z o.o.;Magister;tak;K
+12;Staśkiel;Mariusz;Gdańsk;DGT Sp. z o.o.;Magister;tak;M
+13;Skiba;Jerzy;Gdańsk;DGT Sp. z o.o.;Magister;tak;M
+14;Wolszczak;Katarzyna;Gdańsk;DGT Sp. z o.o.;Magister;tak;K
+15;Grudnik;Sławomir;Straszyn;DGT Sp. z o.o.;Magister;tak;M
+16;Rejszel;Stanisław;Kowale;DGT Sp. z o.o.;Magister;tak;M
+17;Kamelska;Danuta;Kowale;DGT Sp. z o.o.;Magister;tak;K
+18;Pogorzelski;Adam;Gdansk;DGT Sp. z o.o.;Magister;tak;M
+19;Mielniczek;Barbara;Straszyn;DGT Sp. z o.o.;Magister;tak;K
+20;Sygitowicz;Szymon;Gdańsk;DGT Sp. z o.o.;Magister;tak;M
+21;Kaczyński;Mirosław;Gdańsk;DGT Sp. z o.o.;Doktor;tak;M
+22;Dalecki;Pawel;Gdansk;DGT Sp. z o.o.;Doktor;tak;M
+23;Bach;Danuta;Straszyn;DGT Sp. z o.o.;Magister;tak;K
+24;Felchner;Tomasz;Kokoszkowy;DGT Sp. z o.o.;Doktor;tak;M
+25;Bajera;Michał;Gdańsk;DGT Sp. z o.o.;Magister;tak;M
+26;Staśkiel;Katarzyna;Gdańsk;DGT Sp. z o.o.;Magister;tak;K
+27;Jaworski;Mariusz;Tczew;DGT Sp. z o.o.;Magister;tak;M
+28;Trzcionkowski;Bartosz;Gdańsk;DGT Sp. z o.o.;Magister;tak;M
+29;Trzcionkowski;Antoni;Gdańsk;DGT Sp. z o.o.;Magister;tak;M
+30;Sołtyka;Krystyna;Gdynia;DGT Sp. z o.o.;Magister;;K
+31;Mielniczek;Marcin;Gdynia;DGT Sp. z o.o.;Magister;;M
+1;Lipiński;Łukasz;Gdańsk;GetResponse;Magister;;M
+2;Bielawa;Bartek;Gdynia;GetResponse;Magister;;M
+1;Remizowicz;Stanisław;Gdańsk;INTEL;Magister;;M
+2;Remizowicz;Maja;Gdańsk;INTEL;Magister;;K
+3;Momont;Joanna;Gdansk;INTEL;Magister;;K
+4;Kołelis;Szymon;Gdańsk;INTEL;Magister;;M
+5;Kołelis;Nadia;Gdańsk;INTEL;Magister;;K
+6;Oleksy;Maciej;Gdańsk;INTEL;Profesor;;M
+7;Szyfelbein;Wojciech;Gdansk;INTEL;Profesor;;M
+8;Szumski;Tomasz;Gdańsk;INTEL;Profesor;;M
+9;Hościło;Aleksandra;Gdynia;INTEL;Profesor;;K
+10;Wójcik;Artur;Gdańsk;INTEL;Profesor;;M
+11;Twaróg;Tomasz;Gdańsk;INTEL;Profesor;;M
+12;Piekarczyk;Adam;Gdańsk;INTEL;Magister;;M
+13;Piekarczyk;Maciek;Gdańsk;INTEL;Magister;;M
+14;Sobieniak;Wojciech;Rotmanka;INTEL;Doktor;;M
+15;Ostrowski;Sławomir;Gdynia;INTEL;Profesor;;M
+16;Szychowska;Malgorzata;Gdynia;INTEL;Magister;;K
+17;Wlodarczyk;Antonina;Gdynia;INTEL;Magister;;K
+18;Bagińska;Małgorzata;Gdynia;INTEL;Profesor;;K
+1;Krawczyk;Roman;Gdańsk;SPIE Elbud Gdańsk S.A.;Magister;tak;M
+2;Śledź;Piotr;Gdańsk;SPIE Elbud Gdańsk S.A.;Magister;tak;M
+3;Domański;Marek;Gdańsk;SPIE Elbud Gdańsk S.A.;Magister;tak;M
+4;Borzyszkowski;Tomasz;Gdańsk;SPIE Elbud Gdańsk S.A.;Magister;tak;M
+1;Fabisiak;Grzegorz;Gdańsk;Nest Bank SA;Magister;;M
+2;Jasnoch;Andrzej;Gdańsk;Nest Bank SA;Magister;;M
+3;Płachta;Jacek;Gdańsk;Nest Bank SA;Magister;;M
+4;Sierota;Przemysław;Gdańsk;Nest Bank SA;Magister;;M
+5;Kutkiewicz;Paula;Gdańsk;Nest Bank SA;Magister;;K
+6;Wocial;Tomasz;Gdynia;Nest Bank SA;Magister;;M
+7;Supeł;Sylwia;Gdańsk;Nest Bank SA;Magister;;K
+8;Gołuński;Marek;Gdańsk;Nest Bank SA;Doktor;;M
+9;Grodecki;Krzysztof;Gdańsk;Nest Bank SA;Magister;;M
+10;Bogusz;Marcin;Gdańsk;Nest Bank SA;Doktor;;M
+11;Zielińska;Patrycja;Gdańsk;Nest Bank SA;Magister;;K
+1;Broniszewski;Maciej;Gdańsk;SWORD spółka z ograniczoną odpowiedzialnością;Magister;tak;M
+2;Wójcik;Roman;Gdynia;SWORD spółka z ograniczoną odpowiedzialnością;Magister;tak;M
+1;Lisek;Marcin;Gdańsk;Wakacje.pl S.A.;Magister;;M
+2;Szczepkowski;Zenon;Gdańsk;Wakacje.pl S.A.;Doktor;;M
+3;Szymanowicz;Marta;Gdańsk;Wakacje.pl S.A.;Magister;;K
+4;Matusik;Łukasz;Gdańsk;Wakacje.pl S.A.;Magister;;M
+5;Królak;Aleksandra;Gdańsk;Wakacje.pl S.A.;Magister;;K
+1;Petelski;Maciej;Gdańsk;TTS Poland sp. z o.o.;Magister;;M
+2;Prożek;Adam;Gdańsk;TTS Poland sp. z o.o.;Doktor;;M
+3;Sokołowski;Bogdan;Gdańsk;TTS Poland sp. z o.o.;Doktor;;M
+4;Rojek;Mariusz;Gdańsk;TTS Poland sp. z o.o.;Magister;;M
